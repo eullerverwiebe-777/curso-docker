@@ -1,0 +1,1175 @@
+pedido_id,data_venda,produto,categoria,quantidade,preco_unitario,regiao,canal,vendedor
+PED-00658,2025-01-04,Teclado Mecanico,Perifericos,1,389.40,Norte,E-commerce,Ana Prado
+PED-00136,2025-07-15,Notebook Pro 14,Informatica,1,4619.07,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00117,2025-10-19,Monitor 27 4K,Informatica,3,1734.53,Nordeste,Marketplace,Bruno Salles
+PED-00559,2025-10-08,Suporte Monitor,Mobiliario,1,246.10,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00766,2025-12-17,Notebook Pro 14,Informatica,1,4577.10,Norte,E-commerce,Bruno Salles
+PED-00322,2025-12-11,  Dock Station USB-C  ,Perifericos,1,809.61,Norte,Marketplace,Gisele Amaral
+PED-00077,2025-08-27,Notebook Pro 14,Informatica,1,4480.10,Centro-Oeste,E-commerce,Diego Matos
+PED-00736,2025-05-21,HD Externo 4TB,Armazenamento,1,696.54,Norte,Loja Fisica,Bruno Salles
+PED-00905,2025-11-28,Mesa Regulavel,Mobiliario,1,1971.78,Sudeste,Televendas,Fabio Lemos
+PED-00704,2025-05-01,Monitor 27 4K,Informatica,1,1529.77,Nordeste,E-commerce,Diego Matos
+PED-00371,2025-09-11,Mouse Ergonomico,Perifericos,5,248.45,Norte,Loja Fisica,Heitor Braga
+PED-00374,2025-09-03,Headset Studio,Perifericos,2,592.45,Nordeste,Loja Fisica,Gisele Amaral
+PED-01035,12/06/2025,Suporte Monitor,Mobiliario,1,238.39,Centro-Oeste,Marketplace,Fabio Lemos
+PED-00920,20/11/2025,  Caixa de Som Bluetooth  ,Audio,2,367.33,Norte,Marketplace,Carla Nunes
+PED-01075,2025-05-17,Suporte Monitor,Mobiliario,1,289.94,Nordeste,Marketplace,Gisele Amaral
+PED-00867,2025-08-06,Caixa de Som Bluetooth,Audio,3,406.80,Norte,Loja Fisica,Heitor Braga
+PED-00370,2025-06-03,Notebook Pro 14,Informatica,1,4426.39,CENTRO-OESTE,E-commerce,Fabio Lemos
+PED-00609,2025-07-11,Notebook Pro 14,Informatica,4,4960.52,Norte,Marketplace,Heitor Braga
+PED-00214,2025-10-14,Cadeira Ergonomica,Mobiliario,2,1291.75,Centro-Oeste,Televendas,Carla Nunes
+PED-00731,2025-02-16,Dock Station USB-C,Perifericos,1,784.57,Norte,Televendas,Ana Prado
+PED-00423,2025-12-22,Microfone Condensador,Audio,1,765.53,Sul,Marketplace,Bruno Salles
+PED-00412,2025-11-21,Mesa Regulavel,Mobiliario,1,2153.51,Sudeste,Marketplace,Elisa Rocha
+PED-00846,2025-12-24,Cadeira Ergonomica,Mobiliario,1,1508.73,centro-oeste,E-commerce,Heitor Braga
+PED-00936,2025-01-31,Headset Studio,Perifericos,1,592.08,Nordeste,Loja Fisica,Bruno Salles
+PED-00649,2025-03-29,Cadeira Ergonomica,Mobiliario,10,1524.96,Sul,Marketplace,Carla Nunes
+PED-01149,2025-09-24,Suporte Monitor,Mobiliario,2,286.25,Norte,Televendas,Diego Matos
+PED-00574,2025-05-23,Dock Station USB-C,Perifericos,1,799.38,Sudeste,Loja Fisica,Gisele Amaral
+PED-00797,2025-05-06,SSD 1TB NVMe,Armazenamento,1,563.03,Norte,Marketplace,Ana Prado
+PED-00690,2025-04-05,SSD 1TB NVMe,Armazenamento,5,504.32,Centro-Oeste,Marketplace,Diego Matos
+PED-00772,2025-10-07,Teclado Mecanico,Perifericos,3,347.94,Norte,Televendas,Heitor Braga
+PED-00270,2025-01-26,Mouse Ergonomico,Perifericos,1,219.46,Nordeste,Marketplace,Gisele Amaral
+PED-00890,2025-10-08,Mesa Regulavel,Mobiliario,2,2028.90,Sudeste,E-commerce,Bruno Salles
+PED-00350,2025-09-27,HD Externo 4TB,Armazenamento, 1 ,620.98,Nordeste,Televendas,Elisa Rocha
+PED-00344,2025-10-07,Suporte Monitor,Mobiliario,3,246.60,Centro-Oeste,Loja Fisica,Ana Prado
+PED-00615,2025-05-13,HD Externo 4TB,Armazenamento,1,709.01,Centro-Oeste,Marketplace,Heitor Braga
+PED-00798,2025-01-26,HD Externo 4TB,Armazenamento,1,701.12,Sul,Televendas,Heitor Braga
+PED-00505,2025-09-25,HD Externo 4TB,Armazenamento,1,648.27,centro-oeste,Marketplace,Diego Matos
+PED-00922,2025-09-01,  Webcam Full HD  ,Perifericos,2,331.78,Sul,Loja Fisica,Carla Nunes
+PED-00315,2025-08-21,Caixa de Som Bluetooth,Audio,2,423.92,Sul,Marketplace,Heitor Braga
+PED-00875,2025-05-29,Headset Studio,Perifericos,5,604.78,Sul,E-commerce,Elisa Rocha
+PED-01123,2025-10-11,HD Externo 4TB,Armazenamento,1,674.73,Sudeste,Televendas,Gisele Amaral
+PED-00835,2025-03-09,Microfone Condensador,Audio,10,713.97,sul,E-commerce,Heitor Braga
+PED-00966,2025-12-08,Monitor 27 4K,Informatica,3,1769.54,Sul,Loja Fisica,Diego Matos
+PED-00264,2025-01-15,Microfone Condensador,Audio,5,642.82,Sudeste,E-commerce,Elisa Rocha
+PED-00145,2025-05-04,Cadeira Ergonomica,Mobiliario,4,1451.17,Centro-Oeste,Loja Fisica,Diego Matos
+PED-00229,2025-12-23,Notebook Pro 14,Informatica,1,4968.01,Sul,Marketplace,Heitor Braga
+PED-00635,2025-09-15,  HD Externo 4TB  ,Armazenamento,2,649.62,Sudeste,Loja Fisica,Carla Nunes
+PED-00520,2025-01-15,Dock Station USB-C,Perifericos,4,913.02,Sul,Loja Fisica,Diego Matos
+PED-00471,2025-02-14,Webcam Full HD,Perifericos,4,311.17,Nordeste,Marketplace,Carla Nunes
+PED-00945,2025-01-09,Mouse Ergonomico,Perifericos,1,262.34,Centro-Oeste,Televendas,Carla Nunes
+PED-00578,2025-07-06,Mesa Regulavel,Mobiliario,2,2381.76,Sudeste,Loja Fisica,Heitor Braga
+PED-00851,2025-02-24,HD Externo 4TB,Armazenamento,1,708.44,Nordeste,E-commerce,Elisa Rocha
+PED-00359,2025-12-19,Webcam Full HD,Perifericos,3,288.86,Sudeste,Televendas,Ana Prado
+PED-01033,2025-01-11,Microfone Condensador,Audio,1,687.22,Norte,Televendas,Ana Prado
+PED-00056,2025-01-20,Dock Station USB-C,Perifericos,2,824.59,centro-oeste,Loja Fisica,Diego Matos
+PED-00360,2025-06-24,Notebook Pro 14,Informatica, 1 ,4976.72,Norte,Marketplace,Fabio Lemos
+PED-00494,2025-07-12,Notebook Pro 14,Informatica,1,4322.86,Sul,E-commerce,Bruno Salles
+PED-00541,15/12/2025,Caixa de Som Bluetooth,Audio,1,366.19,Centro-Oeste,Televendas,Gisele Amaral
+PED-00523,2025-08-31,Headset Studio,Perifericos,1,562.59,Norte,Televendas,Fabio Lemos
+PED-00434,2025-09-17,Caixa de Som Bluetooth,Audio,1,422.29,Nordeste,Marketplace,Gisele Amaral
+PED-00961,2025-07-30,Microfone Condensador,Audio,5,733.22,Norte,Televendas,Fabio Lemos
+PED-00990,2025-05-13,HD Externo 4TB,Armazenamento,3,596.60,Sul,E-commerce,Carla Nunes
+PED-00447,2025-06-13,Headset Studio,Perifericos,1,618.87,Nordeste,E-commerce,Fabio Lemos
+PED-00916,2025-04-14,Cadeira Ergonomica,Mobiliario,3,1332.23,Centro-Oeste,Televendas,Gisele Amaral
+PED-00643,2025-11-26,SSD 1TB NVMe,Armazenamento,1,475.11,Nordeste,Loja Fisica,Carla Nunes
+PED-00579,2025-08-31,Headset Studio,Perifericos,2,583.40,Nordeste,Marketplace,Bruno Salles
+PED-00285,2025-07-14,Monitor 27 4K,Informatica,2,1779.68,Sul,Loja Fisica,Ana Prado
+PED-00460,2025-03-03,SSD 1TB NVMe,Armazenamento,1,495.75,Sudeste,Loja Fisica,Elisa Rocha
+PED-00544,2025-05-21,Headset Studio,Perifericos,2,509.71,Sul,Loja Fisica,Carla Nunes
+PED-00363,2025-02-07,Dock Station USB-C,Perifericos,2,898.55,Sudeste,Televendas,
+PED-00801,2025-10-27,Notebook Pro 14,Informatica,3,4267.18,Norte,Loja Fisica,Gisele Amaral
+PED-00571,2025-12-19,Mesa Regulavel,Mobiliario,4,2184.25,Norte,E-commerce,Gisele Amaral
+PED-00243,2025-04-03,Notebook Pro 14,Informatica,1,5129.71,Norte,Televendas,Fabio Lemos
+PED-01126,2025-06-23,HD Externo 4TB,Armazenamento,1,721.24,Norte,Marketplace,Carla Nunes
+PED-00790,2025-07-03,Cadeira Ergonomica,Mobiliario,1,1471.34,Sudeste,Marketplace,Carla Nunes
+PED-00977,2025-01-29,SSD 1TB NVMe,Armazenamento,1,533.09,Nordeste,Marketplace,Carla Nunes
+PED-00362,2025-12-15,HD Externo 4TB,Armazenamento,5,654.52,Norte,Marketplace,Bruno Salles
+PED-00417,2025-01-09,Notebook Pro 14,Informatica,2,"4974,79",Sudeste,Loja Fisica,Heitor Braga
+PED-00727,2025-03-23,Mesa Regulavel,Mobiliario,5,2375.29,Sudeste,E-commerce,Elisa Rocha
+PED-00149,2025-06-01,Teclado Mecanico,Perifericos,1,359.41,Nordeste,E-commerce,Gisele Amaral
+PED-01049,2025-01-19,HD Externo 4TB,Armazenamento,10,653.15,Sul,Loja Fisica,Elisa Rocha
+PED-00119,2025-06-15,Notebook Pro 14,Informatica,2,5026.36,Norte,Televendas,Ana Prado
+PED-00063,2025-12-08,Suporte Monitor,Mobiliario,4,265.45,Centro-Oeste,Televendas,Gisele Amaral
+PED-00869,2025-05-02,Webcam Full HD,Perifericos,2,317.68,Norte,Televendas,Gisele Amaral
+PED-00481,2025-03-08,Notebook Pro 14,Informatica,1,4757.12,Nordeste,Loja Fisica,Fabio Lemos
+PED-00057,2025-04-27,Microfone Condensador,Audio,4,689.03,Sul,E-commerce,Diego Matos
+PED-00237,2025-11-26,Notebook Pro 14,Informatica,1,4487.60,Sul,Marketplace,Heitor Braga
+PED-00697,2025-05-12,Mouse Ergonomico,Perifericos,1,240.42,NORDESTE,E-commerce,Gisele Amaral
+PED-00006,2025-05-16,Notebook Pro 14,Informatica,1,4492.89,Sudeste,Marketplace,Bruno Salles
+PED-00177,2025-12-26,SSD 1TB NVMe,Armazenamento,2,513.89,Sudeste,Loja Fisica,Gisele Amaral
+PED-00534,2025-06-01,Suporte Monitor,Mobiliario,1,264.90,Nordeste,Marketplace,Gisele Amaral
+PED-00783,2025-06-09,Webcam Full HD,Perifericos,1,289.70,NORTE,Televendas,Heitor Braga
+PED-00042,2025-06-03,Mouse Ergonomico,Perifericos,1,245.99,Centro-Oeste,Televendas,Bruno Salles
+PED-00082,2025-11-26,Cadeira Ergonomica,Mobiliario,2,1274.58,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00984,2025-10-11,Teclado Mecanico,Perifericos,1,361.19,Centro-Oeste,E-commerce,Elisa Rocha
+PED-01105,2025-09-02,SSD 1TB NVMe,Armazenamento,1,566.26,Nordeste,Loja Fisica,Carla Nunes
+PED-00997,2025-10-14,HD Externo 4TB,Armazenamento,1,620.49,Norte,E-commerce,Gisele Amaral
+PED-00575,2025-08-16,Webcam Full HD,Perifericos,3,284.84,Norte,,Bruno Salles
+PED-00653,2025-11-11,Cadeira Ergonomica,Mobiliario,1,1408.31,Norte,E-commerce,Bruno Salles
+PED-00861,2025-01-28,Notebook Pro 14,Informatica,1,4693.31,Sudeste,Televendas,Bruno Salles
+PED-00354,2025-06-19,SSD 1TB NVMe,Armazenamento,4,537.46,Norte,E-commerce,Ana Prado
+PED-00646,2025-10-31,Notebook Pro 14,Informatica,1,4281.57,Sul,Loja Fisica,Ana Prado
+PED-01003,31/01/2025,Notebook Pro 14,Informatica,3,4658.68,Centro-Oeste,E-commerce,Elisa Rocha
+PED-00107,2025-09-03,Microfone Condensador,Audio,1,679.24,centro-oeste,Televendas,Carla Nunes
+PED-00634,2025-10-29,Headset Studio,Perifericos,1,615.94,Nordeste,Loja Fisica,Heitor Braga
+PED-00860,2025-09-19,Notebook Pro 14,Informatica,2,4754.54,Centro-Oeste,Loja Fisica,Elisa Rocha
+PED-00174,2025-09-03,Mesa Regulavel,Mobiliario,5,1974.36,CENTRO-OESTE,Marketplace,Bruno Salles
+PED-01114,2025-09-07,Microfone Condensador,Audio,2,748.14,Nordeste,Televendas,Gisele Amaral
+PED-00516,2025-09-09,Microfone Condensador,Audio,3,683.23,Sudeste,Loja Fisica,Carla Nunes
+PED-00742,2025-10-20,Notebook Pro 14,Informatica,1,4253.08,Centro-Oeste,Marketplace,Elisa Rocha
+PED-00068,2025-01-24,Teclado Mecanico,Perifericos,3,342.91,Sul,Marketplace,Bruno Salles
+PED-01112,2025-05-13,Monitor 27 4K,Informatica,1,1873.12,Sudeste,Marketplace,Ana Prado
+PED-00991,2025-07-02,Headset Studio,Perifericos,1,592.21,Sul,E-commerce,Elisa Rocha
+PED-00375,2025-09-09,  Headset Studio  ,Perifericos,1,592.41,NORTE,Loja Fisica,Fabio Lemos
+PED-01090,2025-02-27,Suporte Monitor,Mobiliario,2,262.69,SUL,E-commerce,Fabio Lemos
+PED-01141,2025-09-22,Caixa de Som Bluetooth,Audio,1,394.59,Nordeste,E-commerce,Heitor Braga
+PED-00293,2025-02-10,  Mouse Ergonomico  ,Perifericos,1,260.16,Nordeste,Marketplace,Elisa Rocha
+PED-00853,2025-12-22,SSD 1TB NVMe,Armazenamento,1,504.06,Norte,Marketplace,Gisele Amaral
+PED-00816,2025-05-21,SSD 1TB NVMe,Armazenamento,1,542.92,Nordeste,Marketplace,Diego Matos
+PED-00317,2025-02-07,Microfone Condensador,Audio,1,669.29,Sudeste,Marketplace,Fabio Lemos
+PED-00278,2025-06-23,Notebook Pro 14,Informatica,1,4933.91,Norte,Televendas,Carla Nunes
+PED-01055,2025-03-31,Caixa de Som Bluetooth,Audio,1,368.24,Sul,Televendas,Heitor Braga
+PED-01107,2025-02-25,HD Externo 4TB,Armazenamento,1,"600,45",Norte,Marketplace,Gisele Amaral
+PED-01099,2025-11-28,Monitor 27 4K,Informatica,1,1665.56,Sul,E-commerce,Elisa Rocha
+PED-00928,2025-07-06,Mesa Regulavel,Mobiliario,5,"1971,24",Nordeste,Loja Fisica,Gisele Amaral
+PED-00274,2025-12-01,Notebook Pro 14,Informatica,1,4640.51,Centro-Oeste,Televendas,
+PED-01148,2025-01-19,Dock Station USB-C,Perifericos,1,810.17,Norte,Televendas,Gisele Amaral
+PED-00092,2025-08-04,  Notebook Pro 14  ,Informatica,2,4490.22,Centro-Oeste,E-commerce,Gisele Amaral
+PED-00968,2025-12-07,Monitor 27 4K,Informatica,1,1774.65,Nordeste,Televendas,Carla Nunes
+PED-00576,2025-09-12,Microfone Condensador,Audio,1,684.00,Sudeste,,Gisele Amaral
+PED-00570,2025-05-14,Caixa de Som Bluetooth,Audio,1,360.00,Nordeste,E-commerce,Diego Matos
+PED-00093,2025-12-29,Headset Studio,Perifericos,2,608.43,SUL,Marketplace,Carla Nunes
+PED-01028,2025-01-29,SSD 1TB NVMe,Armazenamento,2,483.81,Centro-Oeste,Televendas,Heitor Braga
+PED-00828,2025-12-17,HD Externo 4TB,Armazenamento,2,623.27,Nordeste,Televendas,Bruno Salles
+PED-00306,2025-05-14,  SSD 1TB NVMe  ,Armazenamento,1,493.89,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00095,2025-06-15,Webcam Full HD,Perifericos,3,318.63,Sul,E-commerce,Elisa Rocha
+PED-01100,2025-06-08,SSD 1TB NVMe,Armazenamento,3,547.45,Norte,Loja Fisica,Fabio Lemos
+PED-00607,2025-11-25,Mesa Regulavel,Mobiliario,1,2056.58,Norte,Loja Fisica,Ana Prado
+PED-01066,2025-11-19,Dock Station USB-C,Perifericos,1,870.70,Centro-Oeste,Loja Fisica,Ana Prado
+PED-00415,2025-09-11,Teclado Mecanico,Perifericos,5,395.74,nordeste,Televendas,Elisa Rocha
+PED-00667,2025-09-24,  Caixa de Som Bluetooth  ,Audio,10,407.60,nordeste,E-commerce,Carla Nunes
+PED-00248,2025-07-16,  Teclado Mecanico  ,Perifericos,3,359.98,norte,E-commerce,Carla Nunes
+PED-00569,2025-03-08,Microfone Condensador,Audio, 2 ,762.26,CENTRO-OESTE,Marketplace,Bruno Salles
+PED-00164,2025-08-16,Notebook Pro 14,Informatica,2,4368.99,Sul,Televendas,Bruno Salles
+PED-00795,2025-01-22,Caixa de Som Bluetooth,Audio,1,390.08,Norte,Marketplace,Fabio Lemos
+PED-00265,13/11/2025,Mesa Regulavel,Mobiliario,1,2208.54,Sudeste,Marketplace,Elisa Rocha
+PED-00190,2025-12-12,Monitor 27 4K,Informatica,1,1742.69,Sudeste,Televendas,Heitor Braga
+PED-00431,2025-09-28,Teclado Mecanico,Perifericos,1,377.73,Sudeste,Televendas,Fabio Lemos
+PED-00343,2025-11-25,Mouse Ergonomico,Perifericos,3,"236,84",Centro-Oeste,Marketplace,Carla Nunes
+PED-00273,2025-08-23,Notebook Pro 14,Informatica,1,4541.09,Sul,Loja Fisica,Fabio Lemos
+PED-00982,2025-10-30,Microfone Condensador,Audio,2,686.90,Centro-Oeste,E-commerce,Ana Prado
+PED-00689,2025-10-08,Headset Studio,Perifericos,2,540.26,Nordeste,Loja Fisica,Elisa Rocha
+PED-00760,2025-10-04,Notebook Pro 14,Informatica,1,4196.78,Norte,Loja Fisica,Fabio Lemos
+PED-01117,2025-10-03,Webcam Full HD,Perifericos,4,336.12,Sul,E-commerce,Elisa Rocha
+PED-00702,2025-11-27,Mesa Regulavel,Mobiliario,1,"2069,00",Centro-Oeste,Televendas,Heitor Braga
+PED-00123,24/03/2025,Webcam Full HD,Perifericos,1,323.74,Nordeste,Marketplace,Heitor Braga
+PED-00061,2025-12-29,Caixa de Som Bluetooth,Audio,2,377.50,Centro-Oeste,E-commerce,Diego Matos
+PED-01142,2025-09-22,Monitor 27 4K,Informatica,3,1778.41,Sudeste,E-commerce,Fabio Lemos
+PED-00508,11/08/2025,Notebook Pro 14,Informatica,1,5123.04,Sul,Loja Fisica,Elisa Rocha
+PED-00714,2025-09-02,Suporte Monitor,Mobiliario,5,289.99,Nordeste,E-commerce,Gisele Amaral
+PED-00535,2025-10-20,Webcam Full HD,Perifericos,3,318.01,Sul,Televendas,Diego Matos
+PED-00425,2025-03-10,Caixa de Som Bluetooth,Audio,1,388.22,Sul,E-commerce,Ana Prado
+PED-00032,2025-05-08,Suporte Monitor,Mobiliario,1,285.23,Sul,Loja Fisica,Heitor Braga
+PED-00097,2025-09-07,Notebook Pro 14,Informatica,1,4474.36,Sul,Televendas,Elisa Rocha
+PED-00993,10/04/2025,HD Externo 4TB,Armazenamento,2,604.89,Sul,E-commerce,Carla Nunes
+PED-00263,2025-10-25,HD Externo 4TB,Armazenamento, 2 ,676.88,Sul,Loja Fisica,Fabio Lemos
+PED-00854,01/05/2025,Cadeira Ergonomica,Mobiliario,3,1428.77,Sul,E-commerce,Heitor Braga
+PED-00244,2025-06-06,  Notebook Pro 14  ,Informatica,1,4802.88,Centro-Oeste,Marketplace,Carla Nunes
+PED-00896,2025-06-15,Dock Station USB-C,Perifericos,1,917.30,NORDESTE,Loja Fisica,Bruno Salles
+PED-00651,2025-11-02,Suporte Monitor,Mobiliario,2,288.62,Norte,E-commerce,Diego Matos
+PED-00794,2025-11-12,  Monitor 27 4K  ,Informatica,5,1874.35,Centro-Oeste,Televendas,Heitor Braga
+PED-00917,2025-10-07,Headset Studio,Perifericos,1,591.10,Sul,Televendas,Diego Matos
+PED-00500,2025-05-30,Notebook Pro 14,Informatica,1,4323.57,Sudeste,Marketplace,Bruno Salles
+PED-00441,2025-05-18,Headset Studio,Perifericos,1,602.73,Sudeste,E-commerce,Fabio Lemos
+PED-01139,2025-08-01,Notebook Pro 14,Informatica,1,4855.97,Nordeste,Loja Fisica,
+PED-00543,2025-02-11,Monitor 27 4K,Informatica,1,1777.71,Centro-Oeste,Televendas,Carla Nunes
+PED-00799,2025-05-27,Webcam Full HD,Perifericos,4,330.56,centro-oeste,Loja Fisica,Gisele Amaral
+PED-00016,2025-02-26,HD Externo 4TB,Armazenamento,1,699.81,Sul,Loja Fisica,Gisele Amaral
+PED-00090,2025-05-05,Notebook Pro 14,Informatica,2,4968.80,Sudeste,Televendas,Bruno Salles
+PED-00191,2025-08-01,Mesa Regulavel,Mobiliario,1,2224.54,Nordeste,Loja Fisica,Bruno Salles
+PED-00934,2025-03-16,Cadeira Ergonomica,Mobiliario,1,1531.87,Sul,Marketplace,Carla Nunes
+PED-00778,2025-12-31,HD Externo 4TB,Armazenamento,5,672.53,Sudeste,E-commerce,Diego Matos
+PED-00116,2025-05-17,Notebook Pro 14,Informatica,2,4789.89,Sul,E-commerce,Ana Prado
+PED-00533,2025-11-04,Caixa de Som Bluetooth,Audio,1,427.99,Centro-Oeste,Televendas,Carla Nunes
+PED-01111,2025-05-16,Dock Station USB-C,Perifericos,2,867.54,Nordeste,Loja Fisica,Diego Matos
+PED-00919,2025-10-11,Dock Station USB-C,Perifericos,1,880.44,Sul,Marketplace,Diego Matos
+PED-00271,2025-06-17,Teclado Mecanico,Perifericos,5,401.78,Norte,Televendas,Diego Matos
+PED-00051,2025-03-18,Notebook Pro 14,Informatica,5,4832.32,NORTE,E-commerce,Fabio Lemos
+PED-00749,2025-09-16,Monitor 27 4K,Informatica,3,1718.39,Nordeste,Loja Fisica,Heitor Braga
+PED-01020,2025-09-08,Dock Station USB-C,Perifericos,1,778.25,Centro-Oeste,Loja Fisica,Carla Nunes
+PED-00298,2025-11-27,Dock Station USB-C,Perifericos,5,813.67,Sudeste,E-commerce,Diego Matos
+PED-00710,2025-04-01,Monitor 27 4K,Informatica,5,1771.25,Norte,Marketplace,Gisele Amaral
+PED-00524,2025-12-19,Monitor 27 4K,Informatica,3,1614.10,SUDESTE,Televendas,Ana Prado
+PED-00640,2025-12-01,Cadeira Ergonomica,Mobiliario,2,1318.31,Centro-Oeste,Televendas,Bruno Salles
+PED-01093,18/06/2025,Teclado Mecanico,Perifericos,3,384.20,SUDESTE,Televendas,Bruno Salles
+PED-01062,2025-08-13,Mouse Ergonomico,Perifericos,1,256.91,Nordeste,Marketplace,Ana Prado
+PED-00822,2025-11-23,Notebook Pro 14,Informatica,1,4704.59,Sul,E-commerce,Diego Matos
+PED-00460,2025-03-03,SSD 1TB NVMe,Armazenamento,1,495.75,Sudeste,Loja Fisica,Elisa Rocha
+PED-01000,2025-03-02,Suporte Monitor,Mobiliario,1,278.69,Sul,Loja Fisica,Carla Nunes
+PED-01125,2025-08-29,Notebook Pro 14,Informatica,1,4866.73,Nordeste,Marketplace,Diego Matos
+PED-00779,2025-07-21,Caixa de Som Bluetooth,Audio,2,"384,10",Sul,E-commerce,Fabio Lemos
+PED-00488,2025-03-14,Mesa Regulavel,Mobiliario,2,2375.50,Nordeste,E-commerce,Diego Matos
+PED-01150,2025-06-24,Notebook Pro 14,Informatica,2,4461.88,SUL,E-commerce,Ana Prado
+PED-00996,2025-03-25,  Headset Studio  ,Perifericos,3,558.51,Sudeste,Loja Fisica,Carla Nunes
+PED-00025,2025-04-13,Caixa de Som Bluetooth,Audio,2,417.32,Nordeste,Marketplace,Fabio Lemos
+PED-00001,2025-05-06,Mesa Regulavel,Mobiliario,1,2286.13,Sul,Loja Fisica,Bruno Salles
+PED-00386,2025-09-24,Mouse Ergonomico,Perifericos,1,251.61,Centro-Oeste,Televendas,Heitor Braga
+PED-00044,2025-05-06,Monitor 27 4K,Informatica,5,1836.85,Nordeste,Televendas,Carla Nunes
+PED-00002,2025-10-30,Mesa Regulavel,Mobiliario,3,"2196,28",Centro-Oeste,E-commerce,Ana Prado
+PED-00232,2025-02-26,Mesa Regulavel,Mobiliario,3,2155.86,Centro-Oeste,E-commerce,Diego Matos
+PED-00279,2025-01-21,Teclado Mecanico,Perifericos,2,362.72,Sudeste,E-commerce,Carla Nunes
+PED-00255,2025-03-13,HD Externo 4TB,Armazenamento,1,731.87,Sul,Marketplace,Ana Prado
+PED-00761,2025-12-11,  HD Externo 4TB  ,Armazenamento,2,615.57,Centro-Oeste,Marketplace,Bruno Salles
+PED-00545,2025-03-08,SSD 1TB NVMe,Armazenamento,3,552.27,Norte,Marketplace,Gisele Amaral
+PED-00857,2025-04-22,SSD 1TB NVMe,Armazenamento,2,473.40,Sul,E-commerce,Carla Nunes
+PED-00593,2025-05-27,Teclado Mecanico,Perifericos,1,"392,67",Nordeste,Loja Fisica,Ana Prado
+PED-00309,2025-12-27,Monitor 27 4K,Informatica,1,1701.40,Nordeste,E-commerce,Elisa Rocha
+PED-01124,2025-11-27,Caixa de Som Bluetooth,Audio,1,397.61,Nordeste,Marketplace,Gisele Amaral
+PED-00748,2025-07-03,Suporte Monitor,Mobiliario,1,272.79,Centro-Oeste,Marketplace,Bruno Salles
+PED-00691,2025-07-25,Webcam Full HD,Perifericos,2,304.15,Nordeste,Marketplace,Carla Nunes
+PED-00629,2025-07-04,Suporte Monitor,Mobiliario,3,261.49,SUL,Televendas,Heitor Braga
+PED-00097,2025-09-07,Notebook Pro 14,Informatica,1,4474.36,Sul,Televendas,Elisa Rocha
+PED-00591,2025-10-20,Dock Station USB-C,Perifericos,1,842.01,Centro-Oeste,Televendas,Gisele Amaral
+PED-00889,2025-12-11,Dock Station USB-C,Perifericos,2,799.54,Norte,Loja Fisica,Fabio Lemos
+PED-00492,2025-09-03,Headset Studio,Perifericos,2,521.30,Norte,Loja Fisica,Carla Nunes
+PED-00616,2025-07-19,Mesa Regulavel,Mobiliario,1,"2091,41",Sudeste,E-commerce,Bruno Salles
+PED-00187,2025-07-25,Monitor 27 4K,Informatica,4,1724.24,SUDESTE,Loja Fisica,Ana Prado
+PED-00622,2025-04-18,  HD Externo 4TB  ,Armazenamento,2,606.05,Nordeste,Loja Fisica,Gisele Amaral
+PED-00812,2025-01-17,Notebook Pro 14,Informatica, 2 ,4192.41,Norte,Televendas,Fabio Lemos
+PED-00595,2025-10-15,Notebook Pro 14,Informatica,2,4817.16,Sul,Marketplace,Diego Matos
+PED-00627,2025-12-04,Headset Studio,Perifericos,1,548.49,Nordeste,Loja Fisica,Fabio Lemos
+PED-00319,2025-11-25,Webcam Full HD,Perifericos,1,288.56,Centro-Oeste,Televendas,Gisele Amaral
+PED-00650,2025-11-16,Dock Station USB-C,Perifericos,2,893.11,NORTE,Televendas,Carla Nunes
+PED-00442,2025-05-15,  Dock Station USB-C  ,Perifericos,1,849.75,Norte,E-commerce,Heitor Braga
+PED-00848,2025-07-06,Monitor 27 4K,Informatica,4,1742.37,Centro-Oeste,Loja Fisica,Fabio Lemos
+PED-00410,2025-03-09,Mouse Ergonomico,Perifericos,4,218.76,Sul,Loja Fisica,Fabio Lemos
+PED-00137,2025-06-19,Notebook Pro 14,Informatica,1,5100.62,Sudeste,Marketplace,Bruno Salles
+PED-00475,2025-10-27,Dock Station USB-C,Perifericos,10,850.74,Sul,Loja Fisica,Bruno Salles
+PED-00606,2025-09-01,Teclado Mecanico,Perifericos,5,379.63,Norte,E-commerce,Bruno Salles
+PED-00178,2025-08-21,SSD 1TB NVMe,Armazenamento,4,512.09,Centro-Oeste,Marketplace,Bruno Salles
+PED-00366,2025-10-12,Notebook Pro 14,Informatica,1,4595.47,Norte,Marketplace,Bruno Salles
+PED-00110,2025-11-07,Teclado Mecanico,Perifericos,1,391.03,Norte,Loja Fisica,Gisele Amaral
+PED-00294,2025-10-03,Suporte Monitor,Mobiliario,1,248.43,Nordeste,Televendas,Carla Nunes
+PED-00467,2025-03-04,Caixa de Som Bluetooth,Audio, 4 ,423.93,Sudeste,Marketplace,Ana Prado
+PED-00502,2025-04-06,Monitor 27 4K,Informatica,1,1658.06,Centro-Oeste,E-commerce,Elisa Rocha
+PED-00883,2025-11-25,Cadeira Ergonomica,Mobiliario,3,1369.33,Nordeste,E-commerce,Ana Prado
+PED-00926,2025-05-22,SSD 1TB NVMe,Armazenamento,3,"539,04",Sudeste,Loja Fisica,Bruno Salles
+PED-00976,13/12/2025,Notebook Pro 14,Informatica,1,4987.26,Sudeste,Marketplace,
+PED-00678,2025-01-05,Webcam Full HD,Perifericos,5,313.64,Nordeste,Loja Fisica,Elisa Rocha
+PED-00608,2025-02-28,Mesa Regulavel,Mobiliario,4,2121.17,Centro-Oeste,Televendas,Elisa Rocha
+PED-00746,2025-09-23,Microfone Condensador,Audio,1,778.15,Sudeste,E-commerce,Diego Matos
+PED-00250,2025-02-28,Webcam Full HD,Perifericos,1,297.99,Sudeste,Loja Fisica,Heitor Braga
+PED-00151,2025-06-30,Dock Station USB-C,Perifericos,3,864.56,Sul,Loja Fisica,Elisa Rocha
+PED-00998,2025-03-09,SSD 1TB NVMe,Armazenamento,4,479.45,Sudeste,Marketplace,Fabio Lemos
+PED-00459,2025-07-28,Notebook Pro 14,Informatica,1,4612.30,Sudeste,Televendas,Diego Matos
+PED-01109,2025-12-05,Dock Station USB-C,Perifericos,2,776.78,Centro-Oeste,Loja Fisica,Carla Nunes
+PED-00946,2025-10-26,Suporte Monitor,Mobiliario,1,268.98,Sudeste,Marketplace,Heitor Braga
+PED-00060,2025-06-10,Notebook Pro 14,Informatica,2,4494.58,centro-oeste,E-commerce,Gisele Amaral
+PED-00743,2025-02-06,Notebook Pro 14,Informatica,1,4749.12,Sudeste,Loja Fisica,Heitor Braga
+PED-00083,2025-04-19,  Monitor 27 4K  ,Informatica,1,1657.22,Centro-Oeste,Televendas,Fabio Lemos
+PED-00838,2025-04-09,Mesa Regulavel,Mobiliario,4,2093.46,Nordeste,Televendas,Fabio Lemos
+PED-00561,2025-02-21,Notebook Pro 14,Informatica,3,4229.90,Nordeste,Loja Fisica,Heitor Braga
+PED-00266,2025-12-17,Mesa Regulavel,Mobiliario,5,2167.69,Centro-Oeste,Televendas,Heitor Braga
+PED-00781,2025-01-16,Mesa Regulavel,Mobiliario,1,2123.82,Norte,Televendas,Diego Matos
+PED-00988,2025-02-04,Dock Station USB-C,Perifericos,1,"933,49",Norte,Televendas,Heitor Braga
+PED-00076,2025-04-29,Caixa de Som Bluetooth,Audio,2,367.75,Centro-Oeste,,Diego Matos
+PED-00862,2025-08-10,Microfone Condensador,Audio,1,641.32,Norte,Marketplace,Fabio Lemos
+PED-00186,2025-06-08,Notebook Pro 14,Informatica,1,4843.74,Nordeste,Televendas,Ana Prado
+PED-00018,2025-10-02,Mesa Regulavel,Mobiliario,3,2258.72,Nordeste,Televendas,
+PED-00538,2025-04-04,Suporte Monitor,Mobiliario,1,282.26,Nordeste,E-commerce,Diego Matos
+PED-00843,2025-02-24,Notebook Pro 14,Informatica,1,4817.14,Centro-Oeste,E-commerce,Bruno Salles
+PED-01130,2025-07-03,Teclado Mecanico,Perifericos,2,409.34,Nordeste,Televendas,Carla Nunes
+PED-00351,2025-07-27,Dock Station USB-C,Perifericos,1,822.90,Centro-Oeste,Loja Fisica,Diego Matos
+PED-00762,2025-03-17,Teclado Mecanico,Perifericos,1,392.74,Sul,Televendas,Bruno Salles
+PED-00030,2025-02-18,Dock Station USB-C,Perifericos,1,828.96,Sudeste,Marketplace,Fabio Lemos
+PED-00493,2025-05-31,SSD 1TB NVMe,Armazenamento,1,559.51,Sudeste,Televendas,Elisa Rocha
+PED-00290,2025-06-02,Teclado Mecanico,Perifericos,5,353.17,Sul,Televendas,Elisa Rocha
+PED-00870,2025-01-20,Caixa de Som Bluetooth,Audio,2,386.90,Norte,Marketplace,Fabio Lemos
+PED-01006,2025-11-10,Monitor 27 4K,Informatica,4,1801.03,Sul,E-commerce,Bruno Salles
+PED-00131,2025-07-16,SSD 1TB NVMe,Armazenamento,1,527.18,Sul,Loja Fisica,Bruno Salles
+PED-00878,2025-05-23,Notebook Pro 14,Informatica,1,4231.67,Nordeste,Loja Fisica,Elisa Rocha
+PED-00100,2025-04-24,  SSD 1TB NVMe  ,Armazenamento,3,476.87,Centro-Oeste,Loja Fisica,Elisa Rocha
+PED-00921,2025-01-04,Notebook Pro 14,Informatica,4,4235.45,Sul,E-commerce,Elisa Rocha
+PED-00198,2025-11-13,Webcam Full HD,Perifericos,1,301.02,Centro-Oeste,Televendas,Bruno Salles
+PED-00435,2025-10-03,Suporte Monitor,Mobiliario,1,272.89,Norte,Loja Fisica,Elisa Rocha
+PED-00792,2025-04-26,SSD 1TB NVMe,Armazenamento,1,484.63,Sudeste,Marketplace,Ana Prado
+PED-00806,2025-01-27,Microfone Condensador,Audio,1,751.87,Centro-Oeste,Televendas,Elisa Rocha
+PED-01062,2025-08-13,Mouse Ergonomico,Perifericos,1,256.91,Nordeste,Marketplace,Ana Prado
+PED-00971,2025-11-28,Suporte Monitor,Mobiliario,2,265.46,Nordeste,Marketplace,Elisa Rocha
+PED-00948,2025-12-20,Microfone Condensador,Audio,2,694.30,Nordeste,,Elisa Rocha
+PED-00530,11/07/2025,HD Externo 4TB,Armazenamento,10,729.26,Norte,Televendas,Elisa Rocha
+PED-01071,2025-11-17,  Notebook Pro 14  ,Informatica,5,4789.37,Sul,E-commerce,Heitor Braga
+PED-01013,2025-08-08,Teclado Mecanico,Perifericos,2,354.08,Sul,E-commerce,Heitor Braga
+PED-00565,2025-06-25,Caixa de Som Bluetooth,Audio,3,387.38,Sul,E-commerce,Gisele Amaral
+PED-00837,2025-09-24,  Headset Studio  ,Perifericos,1,514.68,Nordeste,E-commerce,Elisa Rocha
+PED-00373,2025-11-30,SSD 1TB NVMe,Armazenamento,1,556.19,Norte,Loja Fisica,Elisa Rocha
+PED-00424,2025-02-22,Teclado Mecanico,Perifericos,1,388.40,Sudeste,Televendas,Fabio Lemos
+PED-00726,07/12/2025,SSD 1TB NVMe,Armazenamento,3,476.97,Sul,Marketplace,Gisele Amaral
+PED-00811,2025-04-17,Cadeira Ergonomica,Mobiliario,2,1510.90,Sudeste,Loja Fisica,Carla Nunes
+PED-00003,2025-01-14,Notebook Pro 14,Informatica,1,"4650,74",Norte,Loja Fisica,Gisele Amaral
+PED-00625,2025-04-12,  Mouse Ergonomico  ,Perifericos,2,224.94,Norte,Marketplace,Fabio Lemos
+PED-00446,2025-01-19,Caixa de Som Bluetooth,Audio,1,434.18,Norte,Marketplace,Diego Matos
+PED-00847,2025-08-27,Mouse Ergonomico,Perifericos,2,247.91,Centro-Oeste,Loja Fisica,
+PED-00880,2025-05-14,Mesa Regulavel,Mobiliario,1,2316.49,Sul,Marketplace,Carla Nunes
+PED-00581,2025-09-10,  Suporte Monitor  ,Mobiliario,1,287.20,Sul,Marketplace,Bruno Salles
+PED-00464,2025-03-04,SSD 1TB NVMe,Armazenamento,1,553.81,Sudeste,E-commerce,Diego Matos
+PED-00037,2025-01-30,Monitor 27 4K,Informatica,1,1599.44,Norte,E-commerce,Fabio Lemos
+PED-00327,2025-10-23,Microfone Condensador,Audio,4,722.95,Norte,Televendas,Diego Matos
+PED-00288,2025-06-16,Suporte Monitor,Mobiliario,1,248.72,Centro-Oeste,Marketplace,Fabio Lemos
+PED-00849,2025-09-07,Dock Station USB-C,Perifericos,4,814.31,Sudeste,E-commerce,Heitor Braga
+PED-00146,2025-12-08,SSD 1TB NVMe,Armazenamento,2,517.11,Sudeste,Marketplace,Elisa Rocha
+PED-01019,2025-07-27,Headset Studio,Perifericos,1,581.41,Centro-Oeste,Televendas,Carla Nunes
+PED-00157,2025-03-05,Dock Station USB-C,Perifericos,1,803.57,Centro-Oeste,Televendas,Elisa Rocha
+PED-00832,2025-01-20,HD Externo 4TB,Armazenamento,1,609.84,Sul,E-commerce,Heitor Braga
+PED-00601,2025-01-03,Monitor 27 4K,Informatica,1,1824.37,Nordeste,Marketplace,Carla Nunes
+PED-00753,2025-11-02,Notebook Pro 14,Informatica,3,5117.83,Sudeste,Loja Fisica,Elisa Rocha
+PED-00713,2025-06-26,HD Externo 4TB,Armazenamento,3,712.69,Nordeste,Marketplace,Ana Prado
+PED-00826,2025-08-24,Mesa Regulavel,Mobiliario,1,2017.67,Norte,Televendas,Heitor Braga
+PED-00610,2025-06-14,Notebook Pro 14,Informatica,1,4793.69,Norte,E-commerce,Bruno Salles
+PED-00276,2025-04-10,Notebook Pro 14,Informatica,1,4714.24,Nordeste,Televendas,Bruno Salles
+PED-00855,2025-10-12,Notebook Pro 14,Informatica,2,4609.22,Sudeste,Marketplace,Carla Nunes
+PED-00154,2025-03-09,Headset Studio,Perifericos,3,530.19,Norte,Televendas,Elisa Rocha
+PED-01053,2025-03-03,Teclado Mecanico,Perifericos,1,388.69,Norte,Televendas,Heitor Braga
+PED-00912,2025-10-24,Mesa Regulavel,Mobiliario,4,2192.25,Sul,E-commerce,
+PED-01091,2025-03-28,Notebook Pro 14,Informatica,1,4434.37,Norte,Televendas,Diego Matos
+PED-00438,2025-05-06,Suporte Monitor,Mobiliario,5,250.47,Sudeste,Marketplace,Bruno Salles
+PED-00340,2025-07-09,Dock Station USB-C,Perifericos,3,919.25,NORDESTE,Marketplace,Ana Prado
+PED-00563,2025-03-01,Dock Station USB-C,Perifericos,2,832.33,Sudeste,E-commerce,Ana Prado
+PED-00553,2025-07-12,Headset Studio,Perifericos,2,604.05,Nordeste,E-commerce,Ana Prado
+PED-00752,2025-07-04,Dock Station USB-C,Perifericos,2,889.03,Centro-Oeste,Marketplace,Gisele Amaral
+PED-00603,2025-12-29,  Dock Station USB-C  ,Perifericos,2,820.24,Nordeste,Loja Fisica,Carla Nunes
+PED-00217,2025-02-09,Teclado Mecanico,Perifericos,1,342.14,Nordeste,E-commerce,Ana Prado
+PED-00528,2025-08-24,Webcam Full HD,Perifericos,4,335.68,Nordeste,Loja Fisica,Heitor Braga
+PED-00242,2025-09-23,  Monitor 27 4K  ,Informatica,1,1699.61,Nordeste,E-commerce,Gisele Amaral
+PED-00086,2025-01-11,Dock Station USB-C,Perifericos,1,"800,52",Norte,Loja Fisica,Diego Matos
+PED-00942,2025-09-16,Notebook Pro 14,Informatica,1,4616.80,Sudeste,Marketplace,
+PED-00699,2025-08-17,Headset Studio,Perifericos,1,570.30,Sudeste,Marketplace,Elisa Rocha
+PED-00185,2025-11-15,Microfone Condensador,Audio,2,751.61,Norte,,Elisa Rocha
+PED-00358,2025-05-04,Caixa de Som Bluetooth,Audio,1,369.76,Norte,Marketplace,Fabio Lemos
+PED-00554,2025-01-25,Mesa Regulavel,Mobiliario,1,2329.44,Sudeste,Marketplace,Heitor Braga
+PED-00874,2025-09-20,HD Externo 4TB,Armazenamento,3,659.70,Centro-Oeste,Televendas,Gisele Amaral
+PED-00682,2025-03-21,Microfone Condensador,Audio,1,729.32,Sudeste,E-commerce,Bruno Salles
+PED-00605,2025-06-19,Headset Studio,Perifericos,1,534.71,Nordeste,Televendas,Elisa Rocha
+PED-00577,2025-02-16,Webcam Full HD,Perifericos,1,"315,78",Norte,Televendas,Diego Matos
+PED-00296,30/08/2025,Notebook Pro 14,Informatica,1,4479.53,Sudeste,Loja Fisica,Ana Prado
+PED-00897,2025-06-20,Mouse Ergonomico,Perifericos,3,231.55,Sudeste,Televendas,Elisa Rocha
+PED-00156,2025-04-26,SSD 1TB NVMe,Armazenamento,5,482.11,Centro-Oeste,Televendas,Bruno Salles
+PED-00542,2025-04-13,Notebook Pro 14,Informatica,4,4303.96,Nordeste,Marketplace,Heitor Braga
+PED-00311,2025-12-26,Suporte Monitor,Mobiliario,10,258.00,Norte,Marketplace,Diego Matos
+PED-01088,2025-01-19,Teclado Mecanico,Perifericos,1,349.34,Centro-Oeste,Televendas,Carla Nunes
+PED-00218,2025-03-09,Mesa Regulavel,Mobiliario,1,2297.47,Norte,Marketplace,Carla Nunes
+PED-00126,2025-11-15,Webcam Full HD,Perifericos,1,313.76,Centro-Oeste,Marketplace,Ana Prado
+PED-00102,2025-05-09,Headset Studio,Perifericos,2,541.61,Sul,E-commerce,Diego Matos
+PED-00580,2025-06-24,Notebook Pro 14,Informatica,3,4373.37,Nordeste,Televendas,Fabio Lemos
+PED-00160,04/06/2025,Mesa Regulavel,Mobiliario,3,2363.00,Centro-Oeste,E-commerce,Carla Nunes
+PED-00775,2025-07-18,SSD 1TB NVMe,Armazenamento,2,467.57,Nordeste,Televendas,Bruno Salles
+PED-00518,2025-07-28,Teclado Mecanico,Perifericos,1,402.64,Centro-Oeste,Televendas,Ana Prado
+PED-00427,2025-03-13,Microfone Condensador,Audio,1,770.96,Sudeste,Marketplace,Fabio Lemos
+PED-00260,2025-03-05,Webcam Full HD,Perifericos,2,336.78,Norte,Loja Fisica,Elisa Rocha
+PED-00121,2025-08-29,Cadeira Ergonomica,Mobiliario,1,1491.87,NORTE,Marketplace,Elisa Rocha
+PED-00558,2025-04-13,Dock Station USB-C,Perifericos,1,791.86,Nordeste,Loja Fisica,Fabio Lemos
+PED-00808,2025-01-07,Teclado Mecanico,Perifericos,1,391.10,Centro-Oeste,Marketplace,Heitor Braga
+PED-00304,2025-12-12,Suporte Monitor,Mobiliario,1,253.61,Sul,Loja Fisica,Gisele Amaral
+PED-00509,2025-02-04,Headset Studio,Perifericos,4,618.67,Sudeste,Marketplace,Gisele Amaral
+PED-00047,2025-11-06,Suporte Monitor,Mobiliario,2,252.35,Sul,Televendas,Diego Matos
+PED-00774,23/12/2025,Mouse Ergonomico,Perifericos,1,226.61,Norte,Televendas,Ana Prado
+PED-00626,2025-02-21,Headset Studio,Perifericos,1,587.68,Nordeste,E-commerce,Diego Matos
+PED-00073,2025-08-07,Cadeira Ergonomica,Mobiliario,3,1532.32,Norte,Marketplace,Carla Nunes
+PED-00845,2025-12-10,Headset Studio,Perifericos,3,594.56,Norte,E-commerce,Heitor Braga
+PED-00027,2025-04-23,Notebook Pro 14,Informatica,2,4381.55,Sudeste,E-commerce,Ana Prado
+PED-00527,2025-04-25,Mesa Regulavel,Mobiliario,1,2313.30,NORDESTE,Televendas,Elisa Rocha
+PED-00555,2025-12-26,Webcam Full HD,Perifericos,1,296.28,Sul,Loja Fisica,Ana Prado
+PED-01002,2025-08-09,  Notebook Pro 14  ,Informatica,1,4630.10,Sudeste,Loja Fisica,
+PED-00499,2025-12-05,Headset Studio,Perifericos,1,519.65,Norte,Marketplace,Diego Matos
+PED-00004,2025-01-04,Teclado Mecanico,Perifericos,1,353.11,Sul,Marketplace,Fabio Lemos
+PED-00323,2025-03-21,Microfone Condensador,Audio,1,705.65,Nordeste,Loja Fisica,Bruno Salles
+PED-00227,11/02/2025,Webcam Full HD,Perifericos,2,295.16,Nordeste,Loja Fisica,Ana Prado
+PED-01058,11/01/2025,SSD 1TB NVMe,Armazenamento,2,556.84,Norte,E-commerce,Ana Prado
+PED-00165,2025-11-27,Mesa Regulavel,Mobiliario,1,2359.48,Nordeste,E-commerce,Gisele Amaral
+PED-00402,2025-10-17,HD Externo 4TB,Armazenamento, 1 ,703.30,Centro-Oeste,E-commerce,Bruno Salles
+PED-00448,2025-04-02,Notebook Pro 14,Informatica,2,5038.60,Sul,E-commerce,Gisele Amaral
+PED-00451,2025-04-11,Headset Studio,Perifericos,2,568.25,Norte,Loja Fisica,Carla Nunes
+PED-01038,2025-02-08,Webcam Full HD,Perifericos,1,321.46,Norte,Loja Fisica,Elisa Rocha
+PED-00821,2025-03-02,Notebook Pro 14,Informatica,1,4768.20,Sul,Marketplace,Gisele Amaral
+PED-00659,2025-06-11,Webcam Full HD,Perifericos,2,324.91,Centro-Oeste,Televendas,
+PED-00791,2025-11-29,HD Externo 4TB,Armazenamento,4,659.68,Nordeste,Loja Fisica,Gisele Amaral
+PED-00613,11/08/2025,HD Externo 4TB,Armazenamento,3,716.98,Sudeste,Loja Fisica,Ana Prado
+PED-00341,2025-01-09,Cadeira Ergonomica,Mobiliario,4,1487.39,Nordeste,Marketplace,Elisa Rocha
+PED-00859,2025-10-19,Teclado Mecanico,Perifericos,2,356.10,Nordeste,Marketplace,Fabio Lemos
+PED-00277,2025-05-24,Webcam Full HD,Perifericos,2,329.95,Norte,E-commerce,Carla Nunes
+PED-00940,2025-05-07,Mouse Ergonomico,Perifericos,1,233.81,Sul,Televendas,Gisele Amaral
+PED-00707,2025-06-08,Notebook Pro 14,Informatica,2,5022.49,Sul,Loja Fisica,Elisa Rocha
+PED-01145,05/06/2025,  Webcam Full HD  ,Perifericos,4,325.76,Nordeste,Televendas,Ana Prado
+PED-00170,2025-01-08,Notebook Pro 14,Informatica,2,4181.71,Nordeste,Loja Fisica,Fabio Lemos
+PED-00376,2025-07-06,Webcam Full HD,Perifericos,1,331.36,Sudeste,Loja Fisica,Carla Nunes
+PED-00587,2025-05-08,Webcam Full HD,Perifericos,10,339.92,Nordeste,Marketplace,Fabio Lemos
+PED-00788,2025-05-21,Suporte Monitor,Mobiliario,5,287.04,Sul,Loja Fisica,Bruno Salles
+PED-00385,2025-02-13,Notebook Pro 14,Informatica,1,4445.43,Sudeste,Loja Fisica,Fabio Lemos
+PED-00963,2025-03-29,Cadeira Ergonomica,Mobiliario,1,1501.73,Nordeste,Loja Fisica,Heitor Braga
+PED-00332,2025-08-26,Mouse Ergonomico,Perifericos,4,219.63,Sudeste,Marketplace,Gisele Amaral
+PED-00518,2025-07-28,Teclado Mecanico,Perifericos,1,402.64,Centro-Oeste,Televendas,Ana Prado
+PED-00267,01/08/2025,Notebook Pro 14,Informatica,2,4311.10,Centro-Oeste,Marketplace,Diego Matos
+PED-01031,2025-07-02,Webcam Full HD,Perifericos,1,302.36,Centro-Oeste,Televendas,Ana Prado
+PED-00759,2025-03-03,Caixa de Som Bluetooth,Audio,3,391.05,Sul,,Gisele Amaral
+PED-00624,2025-10-18,Teclado Mecanico,Perifericos,1,"383,74",Sudeste,Marketplace,Bruno Salles
+PED-00901,2025-11-24,Notebook Pro 14,Informatica,4,4302.08,Sudeste,E-commerce,Gisele Amaral
+PED-00458,2025-04-14,Headset Studio,Perifericos,1,537.14,Sul,E-commerce,Carla Nunes
+PED-00496,2025-02-21,Cadeira Ergonomica,Mobiliario,4,1313.32,Nordeste,Loja Fisica,Diego Matos
+PED-00465,2025-12-18,Monitor 27 4K,Informatica,1,1664.91,Sudeste,Televendas,Bruno Salles
+PED-01121,2025-08-01,Notebook Pro 14,Informatica,2,4853.90,Centro-Oeste,Televendas,Ana Prado
+PED-00978,2025-07-10,Suporte Monitor,Mobiliario,4,257.78,Sudeste,Televendas,Fabio Lemos
+PED-00228,2025-11-29,Headset Studio,Perifericos, 5 ,609.68,Nordeste,Loja Fisica,Carla Nunes
+PED-01143,2025-08-11,Headset Studio,Perifericos,1,601.68,Sudeste,Marketplace,Ana Prado
+PED-00372,2025-07-22,Notebook Pro 14,Informatica,1,4163.12,nordeste,Marketplace,Fabio Lemos
+PED-00433,2025-01-08,Dock Station USB-C,Perifericos,1,861.05,Nordeste,Loja Fisica,Ana Prado
+PED-00020,2025-09-17,Microfone Condensador,Audio,2,762.73,Norte,,
+PED-00329,2025-03-31,Mouse Ergonomico,Perifericos,1,259.82,Centro-Oeste,Marketplace,Ana Prado
+PED-00105,2025-04-02,Microfone Condensador,Audio,1,670.73,Nordeste,E-commerce,Carla Nunes
+PED-00718,31/07/2025,Mesa Regulavel,Mobiliario,3,2316.93,Sul,E-commerce,Carla Nunes
+PED-00836,2025-01-03,Webcam Full HD,Perifericos,2,314.02,Nordeste,E-commerce,Bruno Salles
+PED-00994,2025-12-17,HD Externo 4TB,Armazenamento,1,638.36,Nordeste,Televendas,Fabio Lemos
+PED-01030,2025-07-07,Notebook Pro 14,Informatica,2,4281.88,NORDESTE,E-commerce,Fabio Lemos
+PED-00888,2025-12-02,Mouse Ergonomico,Perifericos,1,217.33,Norte,Marketplace,Heitor Braga
+PED-00938,29/03/2025,Dock Station USB-C,Perifericos,3,926.09,Norte,Loja Fisica,Bruno Salles
+PED-01052,10/12/2025,Caixa de Som Bluetooth,Audio,5,431.30,Sudeste,Marketplace,Carla Nunes
+PED-00757,07/09/2025,  Suporte Monitor  ,Mobiliario,1,264.08,Norte,E-commerce,Elisa Rocha
+PED-01133,2025-10-13,Dock Station USB-C,Perifericos,1,764.81,nordeste,Loja Fisica,Bruno Salles
+PED-00663,2025-03-02,Suporte Monitor,Mobiliario,1,285.35,Sul,Marketplace,Carla Nunes
+PED-00612,2025-12-17,Mesa Regulavel,Mobiliario,2,2044.13,Centro-Oeste,E-commerce,Diego Matos
+PED-00955,2025-09-27,Headset Studio,Perifericos,1,567.40,Sudeste,Marketplace,Elisa Rocha
+PED-00220,2025-08-16,Webcam Full HD,Perifericos,1,327.00,Norte,Televendas,Heitor Braga
+PED-00611,01/10/2025,Monitor 27 4K,Informatica,10,1798.35,sudeste,E-commerce,Diego Matos
+PED-01119,2025-08-30,Suporte Monitor,Mobiliario,2,290.93,Sudeste,Marketplace,Diego Matos
+PED-00159,2025-06-17,Notebook Pro 14,Informatica,2,5078.92,Norte,Loja Fisica,
+PED-00064,2025-08-04,Suporte Monitor,Mobiliario,1,244.25,Centro-Oeste,Loja Fisica,
+PED-00989,2025-12-18,Cadeira Ergonomica,Mobiliario,1,1343.36,Centro-Oeste,E-commerce,Fabio Lemos
+PED-00547,2025-09-29,Notebook Pro 14,Informatica,4,4896.70,Sul,E-commerce,Ana Prado
+PED-00664,2025-06-23,Notebook Pro 14,Informatica,1,4548.25,norte,E-commerce,Carla Nunes
+PED-00444,2025-12-12,Mouse Ergonomico,Perifericos,3,257.11,Sudeste,Loja Fisica,Ana Prado
+PED-00504,2025-12-09,Dock Station USB-C,Perifericos,2,773.71,Nordeste,Marketplace,
+PED-00861,2025-01-28,Notebook Pro 14,Informatica,1,4693.31,Sudeste,Televendas,Bruno Salles
+PED-00301,05/11/2025,Caixa de Som Bluetooth,Audio,1,381.16,Sudeste,Televendas,Elisa Rocha
+PED-00258,2025-06-12,Microfone Condensador,Audio,2,655.42,sudeste,Marketplace,Heitor Braga
+PED-00120,2025-10-22,Notebook Pro 14,Informatica,1,4815.96,norte,E-commerce,Elisa Rocha
+PED-00380,2025-09-17,Cadeira Ergonomica,Mobiliario,1,1385.94,Centro-Oeste,E-commerce,Fabio Lemos
+PED-00328,2025-09-24,Mouse Ergonomico,Perifericos,4,261.68,Sul,Marketplace,Elisa Rocha
+PED-01086,2025-05-16,Caixa de Som Bluetooth,Audio,4,407.51,Norte,Televendas,Gisele Amaral
+PED-00987,2025-11-27,Webcam Full HD,Perifericos,1,339.32,Sul,E-commerce,Bruno Salles
+PED-00230,2025-05-12,Cadeira Ergonomica,Mobiliario,1,1290.11,Sul,Loja Fisica,Gisele Amaral
+PED-00300,2025-07-23,Caixa de Som Bluetooth,Audio,4,439.71,Centro-Oeste,Loja Fisica,Elisa Rocha
+PED-00711,2025-06-27,HD Externo 4TB,Armazenamento,2,668.77,Centro-Oeste,Loja Fisica,Bruno Salles
+PED-00751,2025-10-16,Microfone Condensador,Audio,3,727.79,Norte,Loja Fisica,Gisele Amaral
+PED-00785,2025-03-11,Mouse Ergonomico,Perifericos,2,257.33,Centro-Oeste,Loja Fisica,Carla Nunes
+PED-00491,2025-03-27,Notebook Pro 14,Informatica,1,4872.97,centro-oeste,Marketplace,Gisele Amaral
+PED-00247,2025-08-13,Notebook Pro 14,Informatica,1,4750.71,SUDESTE,Loja Fisica,Bruno Salles
+PED-00817,2025-10-20,Suporte Monitor,Mobiliario,1,240.40,Norte,E-commerce,Heitor Braga
+PED-01116,2025-04-18,Suporte Monitor,Mobiliario,10,285.08,Centro-Oeste,Loja Fisica,Diego Matos
+PED-00886,2025-12-14,Mouse Ergonomico,Perifericos,5,234.85,Nordeste,E-commerce,Bruno Salles
+PED-00353,2025-11-23,Webcam Full HD,Perifericos,1,310.97,Sudeste,Loja Fisica,Bruno Salles
+PED-00552,2025-01-12,Teclado Mecanico,Perifericos,3,341.65,norte,Loja Fisica,Bruno Salles
+PED-00390,2025-11-24,Dock Station USB-C,Perifericos,1,789.33,Centro-Oeste,Marketplace,Ana Prado
+PED-00952,2025-12-30,Mesa Regulavel,Mobiliario,2,"1977,19",sul,Loja Fisica,Fabio Lemos
+PED-00090,2025-05-05,Notebook Pro 14,Informatica,2,4968.80,Sudeste,Televendas,Bruno Salles
+PED-00171,2025-08-04,Notebook Pro 14,Informatica,1,4207.75,Norte,E-commerce,Bruno Salles
+PED-00617,2025-02-07,Dock Station USB-C,Perifericos,3,764.60,Nordeste,E-commerce,Elisa Rocha
+PED-01081,2025-07-01,Headset Studio,Perifericos,5,565.57,Norte,E-commerce,Ana Prado
+PED-01104,2025-09-11,Mesa Regulavel,Mobiliario,2,2017.52,Norte,E-commerce,
+PED-00747,2025-12-03,HD Externo 4TB,Armazenamento,1,621.15,Sul,Loja Fisica,Gisele Amaral
+PED-00662,2025-06-07,Headset Studio,Perifericos,2,567.10,Norte,Televendas,Gisele Amaral
+PED-00357,2025-04-17,Caixa de Som Bluetooth,Audio,4,357.46,Norte,Loja Fisica,Gisele Amaral
+PED-00324,2025-01-09,Notebook Pro 14,Informatica,3,4566.52,Sul,Loja Fisica,Bruno Salles
+PED-00167,2025-03-06,Notebook Pro 14,Informatica,3,4394.71,Norte,Loja Fisica,
+PED-00308,2025-12-08,Mesa Regulavel,Mobiliario,1,2054.73,Sudeste,Marketplace,Elisa Rocha
+PED-00665,2025-02-16,Webcam Full HD,Perifericos,5,280.00,Sul,Marketplace,Gisele Amaral
+PED-00886,2025-12-14,Mouse Ergonomico,Perifericos,5,234.85,Nordeste,E-commerce,Bruno Salles
+PED-00767,2025-04-08,  Mesa Regulavel  ,Mobiliario,1,2113.79,Nordeste,Televendas,Ana Prado
+PED-01026,2025-12-04,SSD 1TB NVMe,Armazenamento,1,486.07,Nordeste,Loja Fisica,Heitor Braga
+PED-01032,2025-06-09,Mesa Regulavel,Mobiliario,1,2053.96,Norte,E-commerce,Bruno Salles
+PED-00967,2025-03-06,Notebook Pro 14,Informatica,1,4466.16,Centro-Oeste,Televendas,Fabio Lemos
+PED-00879,2025-02-27,Mouse Ergonomico,Perifericos,4,213.12,Norte,Loja Fisica,Carla Nunes
+PED-00892,2025-01-13,Suporte Monitor,Mobiliario,1,247.92,Norte,E-commerce,Ana Prado
+PED-00365,2025-07-04,Notebook Pro 14,Informatica,1,4457.99,Nordeste,E-commerce,Carla Nunes
+PED-00053,2025-12-08,Caixa de Som Bluetooth,Audio,1,413.31,Sudeste,Televendas,Gisele Amaral
+PED-00972,2025-03-17,Dock Station USB-C,Perifericos,10,858.62,Norte,Marketplace,Fabio Lemos
+PED-00739,2025-10-03,Headset Studio,Perifericos,3,588.01,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00393,2025-05-15,Headset Studio,Perifericos, 1 ,563.96,Centro-Oeste,,Gisele Amaral
+PED-00155,2025-09-04,Microfone Condensador,Audio,1,773.57,Nordeste,Televendas,Bruno Salles
+PED-00786,2025-03-02,Headset Studio,Perifericos,1,573.00,Sul,Televendas,Carla Nunes
+PED-00716,2025-05-08,Webcam Full HD,Perifericos,4,308.41,Sul,Marketplace,Gisele Amaral
+PED-00454,2025-03-14,Webcam Full HD,Perifericos,1,283.59,Nordeste,,Ana Prado
+PED-00035,2025-07-25,Webcam Full HD,Perifericos,1,293.71,Sudeste,Loja Fisica,Gisele Amaral
+PED-01047,2025-12-18,Microfone Condensador,Audio,1,660.71,Norte,Loja Fisica,Gisele Amaral
+PED-00189,18/10/2025,Headset Studio,Perifericos,1,548.01,Norte,E-commerce,Ana Prado
+PED-00320,2025-07-12,SSD 1TB NVMe,Armazenamento,4,566.21,Sudeste,Loja Fisica,Fabio Lemos
+PED-01083,2025-09-10,Cadeira Ergonomica,Mobiliario,1,1317.12,Nordeste,Marketplace,Carla Nunes
+PED-00895,2025-12-05,Suporte Monitor,Mobiliario,1,253.59,Sudeste,Marketplace,Elisa Rocha
+PED-00418,2025-04-14,SSD 1TB NVMe,Armazenamento,1,571.84,Sul,Televendas,Carla Nunes
+PED-00920,20/11/2025,  Caixa de Som Bluetooth  ,Audio,2,367.33,Norte,Marketplace,Carla Nunes
+PED-00034,2025-01-08,Notebook Pro 14,Informatica,2,4685.20,Sudeste,Loja Fisica,Carla Nunes
+PED-01128,2025-02-14,Cadeira Ergonomica,Mobiliario,1,1472.33,Centro-Oeste,Loja Fisica,Carla Nunes
+PED-00235,2025-07-11,Microfone Condensador,Audio,1,731.87,NORDESTE,E-commerce,Fabio Lemos
+PED-00750,2025-06-16,Caixa de Som Bluetooth,Audio,1,382.56,Nordeste,Marketplace,Gisele Amaral
+PED-00754,2025-06-11,Notebook Pro 14,Informatica,1,4373.51,Sudeste,Televendas,Carla Nunes
+PED-00007,2025-11-18,Caixa de Som Bluetooth,Audio,1,402.41,Norte,Televendas,Diego Matos
+PED-00621,2025-03-05,Notebook Pro 14,Informatica,2,4699.36,Sudeste,,Gisele Amaral
+PED-00913,2025-08-30,Suporte Monitor,Mobiliario,1,273.63,Norte,E-commerce,Diego Matos
+PED-00818,2025-12-28,Suporte Monitor,Mobiliario,2,289.26,Nordeste,Marketplace,Fabio Lemos
+PED-00656,2025-06-29,Dock Station USB-C,Perifericos,1,893.32,norte,E-commerce,Gisele Amaral
+PED-00089,2025-12-13,Cadeira Ergonomica,Mobiliario,1,1359.46,Centro-Oeste,Marketplace,Diego Matos
+PED-00573,2025-08-29,Notebook Pro 14,Informatica,2,"4309,97",Centro-Oeste,Loja Fisica,Bruno Salles
+PED-00800,2025-09-22,Mouse Ergonomico,Perifericos,2,215.14,Sul,Marketplace,Heitor Braga
+PED-00109,2025-03-19,Notebook Pro 14,Informatica,2,4827.85,SUL,Televendas,Bruno Salles
+PED-00219,2025-11-16,Monitor 27 4K,Informatica,1,1769.54,Sul,Marketplace,Ana Prado
+PED-00238,2025-08-23,Mesa Regulavel,Mobiliario,1,2008.26,Sudeste,Televendas,Diego Matos
+PED-01087,2025-09-09,Caixa de Som Bluetooth,Audio,1,417.90,Sul,Marketplace,Ana Prado
+PED-00439,2025-12-08,SSD 1TB NVMe,Armazenamento,2,472.69,Sul,E-commerce,Ana Prado
+PED-00405,2025-02-14,SSD 1TB NVMe,Armazenamento,1,561.32,Centro-Oeste,E-commerce,Diego Matos
+PED-00662,2025-06-07,Headset Studio,Perifericos,2,567.10,Norte,Televendas,Gisele Amaral
+PED-01057,2025-05-07,Headset Studio,Perifericos,2,566.04,Nordeste,Loja Fisica,Fabio Lemos
+PED-00331,2025-10-03,Monitor 27 4K,Informatica,1,"1587,33",Centro-Oeste,Loja Fisica,Diego Matos
+PED-00585,2025-09-05,HD Externo 4TB,Armazenamento,5,711.42,NORTE,Loja Fisica,Carla Nunes
+PED-00111,2025-10-29,SSD 1TB NVMe,Armazenamento,4,499.30,Centro-Oeste,Televendas,Ana Prado
+PED-01077,2025-05-29,Monitor 27 4K,Informatica,1,1573.75,Nordeste,Loja Fisica,Heitor Braga
+PED-01021,2025-02-04,Notebook Pro 14,Informatica,1,4208.19,Centro-Oeste,E-commerce,Carla Nunes
+PED-00831,2025-07-10,Webcam Full HD,Perifericos,1,337.36,Centro-Oeste,Televendas,Diego Matos
+PED-00914,20/11/2025,Suporte Monitor,Mobiliario,2,"237,95",Sudeste,Televendas,Bruno Salles
+PED-00099,2025-10-12,Notebook Pro 14,Informatica,1,4553.99,Sul,Marketplace,Heitor Braga
+PED-00226,2025-06-28,  Caixa de Som Bluetooth  ,Audio,1,393.95,Sudeste,Marketplace,Ana Prado
+PED-00065,2025-05-27,Webcam Full HD,Perifericos,2,279.68,Sul,Marketplace,Fabio Lemos
+PED-00957,2025-05-28,Notebook Pro 14,Informatica,1,5034.69,Sudeste,E-commerce,Carla Nunes
+PED-00346,2025-12-29,Monitor 27 4K,Informatica,4,1604.35,Sul,E-commerce,Diego Matos
+PED-00015,2025-07-24,Suporte Monitor,Mobiliario, 2 ,287.25,Nordeste,Loja Fisica,Carla Nunes
+PED-00029,2025-10-20,Mesa Regulavel,Mobiliario,1,2193.47,Norte,Marketplace,Diego Matos
+PED-00432,2025-08-04,Monitor 27 4K,Informatica,1,"1821,85",Nordeste,Loja Fisica,
+PED-01073,2025-10-18,Monitor 27 4K,Informatica,1,1653.22,Sudeste,E-commerce,Gisele Amaral
+PED-00641,2025-04-25,HD Externo 4TB,Armazenamento,1,730.13,Norte,Marketplace,Fabio Lemos
+PED-00205,2025-01-29,Mesa Regulavel,Mobiliario,1,2072.30,Nordeste,E-commerce,Elisa Rocha
+PED-00245,2025-06-30,Suporte Monitor,Mobiliario,1,262.10,Norte,Marketplace,Elisa Rocha
+PED-01074,2025-12-11,Dock Station USB-C,Perifericos,4,837.26,Centro-Oeste,E-commerce,Diego Matos
+PED-00632,2025-02-08,Suporte Monitor,Mobiliario,4,241.42,Sudeste,E-commerce,Gisele Amaral
+PED-00657,2025-02-12,Monitor 27 4K,Informatica,1,1795.68,NORDESTE,Marketplace,Elisa Rocha
+PED-00941,2025-03-18,Cadeira Ergonomica,Mobiliario,1,1542.89,Norte,E-commerce,Gisele Amaral
+PED-00930,2025-01-15,Caixa de Som Bluetooth,Audio,2,369.39,Centro-Oeste,E-commerce,Bruno Salles
+PED-00005,2025-06-22,  Mouse Ergonomico  ,Perifericos,1,260.26,Sudeste,E-commerce,
+PED-01108,2025-05-10,Notebook Pro 14,Informatica,1,4860.96,NORDESTE,Televendas,Bruno Salles
+PED-00455,2025-07-31,Caixa de Som Bluetooth,Audio,1,427.00,Nordeste,Marketplace,Bruno Salles
+PED-00316,2025-06-07,Cadeira Ergonomica,Mobiliario,1,1404.29,SUDESTE,Marketplace,Elisa Rocha
+PED-00400,2025-08-16,Mesa Regulavel,Mobiliario,1,2271.75,Centro-Oeste,Loja Fisica,Bruno Salles
+PED-00106,2025-05-30,Mouse Ergonomico,Perifericos,1,215.14,Sul,Marketplace,Bruno Salles
+PED-00536,2025-12-10,Mesa Regulavel,Mobiliario,2,"2305,98",Nordeste,Televendas,Carla Nunes
+PED-00049,2025-01-02,Mesa Regulavel,Mobiliario,1,2073.22,Nordeste,Loja Fisica,Elisa Rocha
+PED-00840,2025-02-22,Notebook Pro 14,Informatica,5,4703.81,Sul,Televendas,Fabio Lemos
+PED-00556,2025-09-24,Mouse Ergonomico,Perifericos,1,217.46,Nordeste,Loja Fisica,Gisele Amaral
+PED-01042,2025-07-25,Mesa Regulavel,Mobiliario,2,2038.14,nordeste,Marketplace,Carla Nunes
+PED-00036,2025-08-21,Notebook Pro 14,Informatica,10,4415.87,Nordeste,Marketplace,Heitor Braga
+PED-01103,2025-09-20,Webcam Full HD,Perifericos,2,285.77,Nordeste,Marketplace,
+PED-01001,2025-03-08,Suporte Monitor,Mobiliario,1,244.14,Sudeste,Marketplace,Bruno Salles
+PED-00367,2025-11-02,Notebook Pro 14,Informatica,1,4698.53,Norte,Televendas,Gisele Amaral
+PED-00452,2025-10-05,Notebook Pro 14,Informatica,5,4179.88,Nordeste,E-commerce,Fabio Lemos
+PED-00732,2025-10-02,Notebook Pro 14,Informatica,1,4307.03,Sudeste,Loja Fisica,Heitor Braga
+PED-00844,31/10/2025,Webcam Full HD,Perifericos,1,326.02,Centro-Oeste,Televendas,Elisa Rocha
+PED-01148,2025-01-19,Dock Station USB-C,Perifericos,1,810.17,Norte,Televendas,Gisele Amaral
+PED-00080,2025-07-19,Teclado Mecanico,Perifericos,1,369.29,Nordeste,Marketplace,Carla Nunes
+PED-00173,2025-12-04,Cadeira Ergonomica,Mobiliario,1,1499.90,Norte,Televendas,Heitor Braga
+PED-00636,2025-04-02,Dock Station USB-C,Perifericos,2,835.93,Norte,Loja Fisica,Heitor Braga
+PED-00720,2025-10-01,Teclado Mecanico,Perifericos,1,"343,28",Sudeste,Loja Fisica,Bruno Salles
+PED-00128,03/05/2025,Notebook Pro 14,Informatica,10,4751.98,Sul,Televendas,Ana Prado
+PED-00833,2025-09-14,HD Externo 4TB,Armazenamento,1,661.63,Sul,Loja Fisica,Fabio Lemos
+PED-01144,2025-10-22,Mesa Regulavel,Mobiliario,5,2015.64,Sudeste,Televendas,Gisele Amaral
+PED-00103,2025-12-20,Headset Studio,Perifericos,1,573.35,Sul,Loja Fisica,Diego Matos
+PED-00019,2025-05-15,Mouse Ergonomico,Perifericos,1,235.09,Norte,Loja Fisica,Bruno Salles
+PED-00175,2025-02-11,SSD 1TB NVMe,Armazenamento,2,515.35,NORDESTE,Loja Fisica,Bruno Salles
+PED-00166,2025-08-21,Mouse Ergonomico,Perifericos,1,218.52,Sudeste,Loja Fisica,Ana Prado
+PED-00286,2025-01-10,Cadeira Ergonomica,Mobiliario,5,1299.25,Centro-Oeste,Televendas,Gisele Amaral
+PED-00483,2025-10-28,Headset Studio,Perifericos,2,588.47,Sudeste,Televendas,Elisa Rocha
+PED-00144,2025-04-03,Teclado Mecanico,Perifericos,2,"375,55",Sul,Loja Fisica,Bruno Salles
+PED-00449,2025-06-09,Notebook Pro 14,Informatica,4,5003.48,Nordeste,E-commerce,Heitor Braga
+PED-00249,2025-08-16,Mesa Regulavel,Mobiliario,1,2116.40,Sudeste,Loja Fisica,Fabio Lemos
+PED-00562,2025-03-31,Mouse Ergonomico,Perifericos, 1 ,214.92,Sudeste,Televendas,Fabio Lemos
+PED-00834,2025-06-08,Caixa de Som Bluetooth,Audio,1,"429,38",nordeste,Loja Fisica,Bruno Salles
+PED-00070,2025-02-24,Teclado Mecanico,Perifericos,1,385.04,Centro-Oeste,Loja Fisica,Carla Nunes
+PED-00891,2025-12-17,Notebook Pro 14,Informatica,1,4670.21,Centro-Oeste,Televendas,Diego Matos
+PED-00497,2025-10-04,Webcam Full HD,Perifericos,2,327.16,Nordeste,Televendas,Elisa Rocha
+PED-00969,2025-10-01,Headset Studio,Perifericos,1,626.01,Nordeste,E-commerce,Ana Prado
+PED-00683,2025-01-04,Mesa Regulavel,Mobiliario,5,2172.14,Norte,E-commerce,Heitor Braga
+PED-00140,2025-06-12,Microfone Condensador,Audio,2,716.59,Centro-Oeste,E-commerce,Bruno Salles
+PED-01070,2025-07-21,Teclado Mecanico,Perifericos,1,360.08,Centro-Oeste,Loja Fisica,Ana Prado
+PED-00813,2025-04-02,Caixa de Som Bluetooth,Audio,1,365.27,Sul,Televendas,Carla Nunes
+PED-01091,2025-03-28,Notebook Pro 14,Informatica,1,4434.37,Norte,Televendas,Diego Matos
+PED-00039,2025-12-12,Microfone Condensador,Audio,1,725.79,sul,Marketplace,Bruno Salles
+PED-00407,2025-04-16,Cadeira Ergonomica,Mobiliario,1,1328.07,Sudeste,Televendas,Elisa Rocha
+PED-01023,2025-08-27,Mesa Regulavel,Mobiliario,3,2298.05,Sul,Televendas,Heitor Braga
+PED-00949,2025-11-10,Webcam Full HD,Perifericos,3,325.58,Norte,Loja Fisica,Bruno Salles
+PED-00352,2025-12-01,Mouse Ergonomico,Perifericos,2,254.79,Sudeste,E-commerce,Gisele Amaral
+PED-00724,2025-05-09,Notebook Pro 14,Informatica,2,4334.11,Centro-Oeste,E-commerce,Bruno Salles
+PED-00769,2025-12-17,Notebook Pro 14,Informatica,5,4384.85,Nordeste,Loja Fisica,Bruno Salles
+PED-00075,2025-05-01,Mouse Ergonomico,Perifericos,1,248.08,Nordeste,Televendas,Fabio Lemos
+PED-00701,2025-06-25,Microfone Condensador,Audio,4,648.50,Sul,Televendas,Fabio Lemos
+PED-00644,2025-03-02,Monitor 27 4K,Informatica,1,1737.02,Sul,Marketplace,Fabio Lemos
+PED-00046,2025-03-10,Caixa de Som Bluetooth,Audio,2,434.83,Nordeste,E-commerce,Bruno Salles
+PED-00519,2025-12-30,HD Externo 4TB,Armazenamento,3,603.32,Norte,Marketplace,Carla Nunes
+PED-00884,2025-09-01,Monitor 27 4K,Informatica,1,1691.99,Norte,Loja Fisica,Gisele Amaral
+PED-01098,2025-07-24,Notebook Pro 14,Informatica,1,4330.59,Sudeste,E-commerce,Diego Matos
+PED-00169,2025-03-16,Dock Station USB-C,Perifericos,4,757.00,Sul,Televendas,Carla Nunes
+PED-00992,2025-07-02,Headset Studio,Perifericos,1,618.42,sudeste,Televendas,Elisa Rocha
+PED-00420,2025-01-27,Headset Studio,Perifericos,2,586.89,Centro-Oeste,Televendas,Diego Matos
+PED-00738,2025-04-05,Notebook Pro 14,Informatica,3,4651.33,Sudeste,Televendas,Diego Matos
+PED-00517,2025-06-14,Mouse Ergonomico,Perifericos,10,234.56,Nordeste,Marketplace,Bruno Salles
+PED-00108,2025-02-28,Notebook Pro 14,Informatica,1,4999.27,Sudeste,Marketplace,Heitor Braga
+PED-00079,2025-07-19,Notebook Pro 14,Informatica,5,4448.54,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00687,2025-03-03,Microfone Condensador,Audio,2,662.84,Norte,Marketplace,Fabio Lemos
+PED-01136,2025-09-17,Monitor 27 4K,Informatica,3,1775.02,Centro-Oeste,E-commerce,Carla Nunes
+PED-00706,2025-02-12,Dock Station USB-C,Perifericos,1,892.67,Sudeste,Televendas,Carla Nunes
+PED-00422,2025-08-16,Monitor 27 4K,Informatica,2,1707.46,SUDESTE,E-commerce,Fabio Lemos
+PED-00506,2025-01-18,SSD 1TB NVMe,Armazenamento,1,510.00,Norte,Loja Fisica,Bruno Salles
+PED-00223,2025-05-09,Microfone Condensador,Audio,1,727.23,Sudeste,Marketplace,Fabio Lemos
+PED-01135,2025-03-27,Microfone Condensador,Audio,2,712.64,sudeste,Loja Fisica,Fabio Lemos
+PED-00693,2025-03-16,HD Externo 4TB,Armazenamento,1,647.40,Sul,Marketplace,Ana Prado
+PED-00866,13/02/2025,Mesa Regulavel,Mobiliario,1,2400.02,Sul,Marketplace,Heitor Braga
+PED-00281,2025-11-12,Caixa de Som Bluetooth,Audio,2,369.77,Nordeste,Televendas,Heitor Braga
+PED-00162,2025-07-09,Caixa de Som Bluetooth,Audio,2,388.72,Norte,Marketplace,Carla Nunes
+PED-00979,2025-10-15,Headset Studio,Perifericos,1,562.53,Sudeste,Loja Fisica,Heitor Braga
+PED-01017,2025-07-26,Headset Studio,Perifericos,1,610.26,Sudeste,Loja Fisica,Gisele Amaral
+PED-00403,2025-07-07,Mouse Ergonomico,Perifericos,3,253.56,Norte,E-commerce,Heitor Braga
+PED-00098,22/05/2025,Headset Studio,Perifericos,1,580.57,Norte,E-commerce,Diego Matos
+PED-01022,05/06/2025,Webcam Full HD,Perifericos,2,301.16,Norte,E-commerce,Bruno Salles
+PED-00188,2025-08-03,Notebook Pro 14,Informatica,3,4366.90,Centro-Oeste,Televendas,Carla Nunes
+PED-00394,2025-06-30,Cadeira Ergonomica,Mobiliario,1,1300.54,Centro-Oeste,Loja Fisica,Elisa Rocha
+PED-00469,2025-04-06,Mesa Regulavel,Mobiliario,1,2108.61,Nordeste,Televendas,Heitor Braga
+PED-00668,2025-12-03,Mesa Regulavel,Mobiliario,1,1951.41,Norte,Televendas,Diego Matos
+PED-00841,2025-05-26,Mouse Ergonomico,Perifericos,1,247.62,Norte,Loja Fisica,Carla Nunes
+PED-01138,2025-08-31,Dock Station USB-C,Perifericos,3,800.17,Nordeste,Televendas,Carla Nunes
+PED-00426,2025-04-20,Cadeira Ergonomica,Mobiliario,2,1397.65,Sul,Marketplace,Heitor Braga
+PED-00180,2025-02-19,Notebook Pro 14,Informatica,3,4247.68,Nordeste,Loja Fisica,Ana Prado
+PED-00628,2025-01-03,Dock Station USB-C,Perifericos,1,832.74,Nordeste,Loja Fisica,Diego Matos
+PED-00681,2025-05-16,Suporte Monitor,Mobiliario,1,278.19,Sul,Loja Fisica,Diego Matos
+PED-00305,2025-07-25,Microfone Condensador,Audio,1,685.77,Sudeste,Loja Fisica,Carla Nunes
+PED-00356,2025-10-06,Caixa de Som Bluetooth,Audio,1,433.71,Norte,E-commerce,
+PED-00980,2025-05-28,Suporte Monitor,Mobiliario,10,282.00,Sul,Marketplace,Gisele Amaral
+PED-00295,2025-05-05,Notebook Pro 14,Informatica,2,4730.42,SUDESTE,Loja Fisica,Diego Matos
+PED-00094,2025-11-12,Suporte Monitor,Mobiliario,2,"273,45",NORTE,Marketplace,Heitor Braga
+PED-00041,2025-05-14,Mesa Regulavel,Mobiliario,2,2185.93,Sul,,Diego Matos
+PED-00590,2025-12-30,Mesa Regulavel,Mobiliario,1,2254.45,Sul,Televendas,Bruno Salles
+PED-00474,2025-04-23,Mouse Ergonomico,Perifericos,1,228.35,Sudeste,Televendas,Ana Prado
+PED-01097,2025-06-15,Microfone Condensador,Audio,1,733.07,Sudeste,E-commerce,Gisele Amaral
+PED-00503,2025-05-18,SSD 1TB NVMe,Armazenamento,1,"491,49",NORTE,E-commerce,Carla Nunes
+PED-00583,24/01/2025,Suporte Monitor,Mobiliario,1,279.40,Norte,E-commerce,Heitor Braga
+PED-00763,2025-07-24,SSD 1TB NVMe,Armazenamento,2,472.06,Nordeste,E-commerce,Gisele Amaral
+PED-00898,2025-04-13,Monitor 27 4K,Informatica,1,1697.54,Norte,Marketplace,Carla Nunes
+PED-00253,2025-08-16,Microfone Condensador,Audio,1,662.51,Sudeste,Televendas,
+PED-00620,2025-11-21,Dock Station USB-C,Perifericos,3,853.64,Sul,Televendas,Fabio Lemos
+PED-00409,2025-02-18,Microfone Condensador,Audio,2,771.49,Sul,Marketplace,Ana Prado
+PED-00721,2025-01-05,Mouse Ergonomico,Perifericos,1,248.16,Sul,E-commerce,Carla Nunes
+PED-01044,2025-08-28,Mesa Regulavel,Mobiliario,5,2286.43,Nordeste,Marketplace,Ana Prado
+PED-00147,2025-06-26,Mesa Regulavel,Mobiliario,2,1980.33,Norte,Televendas,Gisele Amaral
+PED-01045,2025-05-04,HD Externo 4TB,Armazenamento,1,658.81,Sul,Televendas,Gisele Amaral
+PED-00207,2025-01-22,SSD 1TB NVMe,Armazenamento,2,571.42,Centro-Oeste,Loja Fisica,Fabio Lemos
+PED-00283,2025-12-19,Webcam Full HD,Perifericos,2,332.08,Sudeste,Marketplace,Elisa Rocha
+PED-00470,2025-11-12,Caixa de Som Bluetooth,Audio,1,407.61,Sul,Televendas,Heitor Braga
+PED-00515,2025-05-18,Suporte Monitor,Mobiliario,1,278.76,Nordeste,E-commerce,Fabio Lemos
+PED-00882,2025-05-02,Dock Station USB-C,Perifericos,10,893.63,Centro-Oeste,Loja Fisica,Diego Matos
+PED-01007,2025-04-22,Microfone Condensador,Audio,2,638.74,SUL,Televendas,Carla Nunes
+PED-00669,2025-12-24,Notebook Pro 14,Informatica,3,4655.82,Sul,Loja Fisica,Ana Prado
+PED-00589,2025-04-22,Suporte Monitor,Mobiliario,3,268.04,Sul,Loja Fisica,Elisa Rocha
+PED-00827,2025-01-29,Dock Station USB-C,Perifericos,3,921.65,Norte,Televendas,Fabio Lemos
+PED-00163,2025-09-08,Caixa de Som Bluetooth,Audio,1,364.45,Norte,Marketplace,Elisa Rocha
+PED-00717,2025-05-03,Teclado Mecanico,Perifericos,1,364.34,Norte,Televendas,Elisa Rocha
+PED-00850,2025-03-29,Notebook Pro 14,Informatica,1,4607.59,NORDESTE,Televendas,Carla Nunes
+PED-00318,2025-02-05,Suporte Monitor,Mobiliario,1,292.62,Centro-Oeste,E-commerce,Elisa Rocha
+PED-00695,25/01/2025,Mouse Ergonomico,Perifericos,1,255.32,CENTRO-OESTE,E-commerce,Carla Nunes
+PED-00960,2025-04-07,SSD 1TB NVMe,Armazenamento,3,469.01,Sudeste,E-commerce,Diego Matos
+PED-00212,2025-05-10,Notebook Pro 14,Informatica,2,4534.56,Norte,Loja Fisica,Fabio Lemos
+PED-00570,2025-05-14,Caixa de Som Bluetooth,Audio,1,360.00,Nordeste,E-commerce,Diego Matos
+PED-00071,2025-01-26,Dock Station USB-C,Perifericos,5,848.70,Norte,Loja Fisica,Bruno Salles
+PED-01040,29/09/2025,Cadeira Ergonomica,Mobiliario,1,1286.55,Centro-Oeste,Marketplace,Diego Matos
+PED-00429,2025-12-04,Dock Station USB-C,Perifericos, 5 ,761.27,Nordeste,Loja Fisica,Diego Matos
+PED-00550,2025-06-22,SSD 1TB NVMe,Armazenamento,3,532.13,Centro-Oeste,Loja Fisica,Fabio Lemos
+PED-00133,2025-10-24,Mouse Ergonomico,Perifericos,3,254.27,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-01068,2025-11-29,Teclado Mecanico,Perifericos,2,407.03,Sul,Marketplace,Fabio Lemos
+PED-00873,2025-06-09,Mesa Regulavel,Mobiliario,2,2312.03,Norte,E-commerce,Fabio Lemos
+PED-00722,2025-06-09,Notebook Pro 14,Informatica,1,4490.89,Centro-Oeste,Televendas,Heitor Braga
+PED-01036,20/12/2025,Cadeira Ergonomica,Mobiliario,1,1412.03,Sul,Televendas,Heitor Braga
+PED-00335,2025-02-07,Webcam Full HD,Perifericos,2,319.32,Sul,Loja Fisica,Heitor Braga
+PED-00709,2025-08-28,Microfone Condensador,Audio,4,766.11,Norte,Televendas,Heitor Braga
+PED-00012,2025-01-17,Microfone Condensador,Audio,3,645.03,Nordeste,Marketplace,Elisa Rocha
+PED-00531,2025-05-22,Mesa Regulavel,Mobiliario,1,1975.74,Nordeste,Televendas,Elisa Rocha
+PED-01034,2025-09-21,  SSD 1TB NVMe  ,Armazenamento,2,"513,04",centro-oeste,Televendas,Ana Prado
+PED-00059,2025-04-02,Notebook Pro 14,Informatica,1,5105.55,Norte,Televendas,Ana Prado
+PED-00466,2025-11-27,Notebook Pro 14,Informatica,10,4349.90,Centro-Oeste,Loja Fisica,Bruno Salles
+PED-01147,2025-11-30,Caixa de Som Bluetooth,Audio,2,422.21,Centro-Oeste,Televendas,Gisele Amaral
+PED-00537,2025-05-31,Microfone Condensador,Audio,2,720.28,Sudeste,Marketplace,Carla Nunes
+PED-00676,2025-06-23,Webcam Full HD,Perifericos,2,330.31,Centro-Oeste,Marketplace,Ana Prado
+PED-01080,2025-02-07,Suporte Monitor,Mobiliario,1,270.47,Sudeste,E-commerce,Ana Prado
+PED-00239,2025-06-11,Notebook Pro 14,Informatica,3,5022.80,Nordeste,Marketplace,Heitor Braga
+PED-01102,2025-02-16,SSD 1TB NVMe,Armazenamento,1,532.57,Centro-Oeste,Televendas,Carla Nunes
+PED-01012,2025-08-22,Headset Studio,Perifericos, 1 ,555.25,Norte,,Heitor Braga
+PED-00719,2025-11-13,Monitor 27 4K,Informatica,1,1749.51,Centro-Oeste,Televendas,Heitor Braga
+PED-00072,2025-09-29,SSD 1TB NVMe,Armazenamento,1,517.67,Norte,Televendas,Heitor Braga
+PED-01014,2025-12-12,Mesa Regulavel,Mobiliario,1,1952.36,Centro-Oeste,E-commerce,Gisele Amaral
+PED-00192,2025-12-14,Headset Studio,Perifericos,1,543.08,Norte,Marketplace,Elisa Rocha
+PED-00028,2025-06-19,Teclado Mecanico,Perifericos,1,333.86,Sudeste,Loja Fisica,Elisa Rocha
+PED-00924,2025-11-18,Suporte Monitor,Mobiliario,1,290.18,Nordeste,Televendas,Gisele Amaral
+PED-01095,2025-09-03,Notebook Pro 14,Informatica,1,4848.64,Centro-Oeste,Televendas,Ana Prado
+PED-00802,2025-08-21,Webcam Full HD,Perifericos,1,281.29,Norte,Loja Fisica,Heitor Braga
+PED-00182,2025-01-27,Microfone Condensador,Audio,2,749.04,NORDESTE,Televendas,Fabio Lemos
+PED-00567,2025-03-23,Notebook Pro 14,Informatica,1,4866.93,Sudeste,Marketplace,Heitor Braga
+PED-00932,2025-02-26,Suporte Monitor,Mobiliario,2,255.32,Nordeste,Loja Fisica,Bruno Salles
+PED-01122,2025-11-10,  SSD 1TB NVMe  ,Armazenamento,1,523.02,Centro-Oeste,Loja Fisica,Ana Prado
+PED-00974,2025-08-17,  Notebook Pro 14  ,Informatica,1,4978.88,Nordeste,E-commerce,Fabio Lemos
+PED-00096,2025-10-19,Caixa de Som Bluetooth,Audio,1,419.04,Norte,Marketplace,Fabio Lemos
+PED-00312,2025-02-11,Dock Station USB-C,Perifericos,1,890.84,Norte,Marketplace,Fabio Lemos
+PED-00655,2025-12-24,HD Externo 4TB,Armazenamento,1,716.45,Norte,Marketplace,Diego Matos
+PED-00881,2025-02-13,Dock Station USB-C,Perifericos,2,762.39,Sul,Loja Fisica,Heitor Braga
+PED-00584,2025-03-10,SSD 1TB NVMe,Armazenamento,2,571.64,Centro-Oeste,E-commerce,Ana Prado
+PED-00250,2025-02-28,Webcam Full HD,Perifericos,1,297.99,Sudeste,Loja Fisica,Heitor Braga
+PED-01067,2025-10-22,Webcam Full HD,Perifericos,1,299.76,Sudeste,E-commerce,Carla Nunes
+PED-01069,2025-05-14,SSD 1TB NVMe,Armazenamento,1,547.37,SUL,Televendas,Elisa Rocha
+PED-00765,2025-11-12,Webcam Full HD,Perifericos,2,"292,55",Norte,Loja Fisica,Diego Matos
+PED-00396,2025-03-14,Mouse Ergonomico,Perifericos,1,231.07,Norte,,Gisele Amaral
+PED-00548,2025-06-26,Mesa Regulavel,Mobiliario,3,2050.13,Nordeste,Loja Fisica,Bruno Salles
+PED-00066,2025-09-19,SSD 1TB NVMe,Armazenamento,1,540.83,Centro-Oeste,Loja Fisica,Bruno Salles
+PED-00725,2025-08-15,Dock Station USB-C,Perifericos,2,824.99,Sul,E-commerce,Diego Matos
+PED-00210,2025-07-10,HD Externo 4TB,Armazenamento,2,616.34,Nordeste,Marketplace,Gisele Amaral
+PED-00391,2025-10-31,Suporte Monitor,Mobiliario,2,248.16,Centro-Oeste,Marketplace,Ana Prado
+PED-01064,2025-02-21,Suporte Monitor,Mobiliario,1,288.40,Sul,Televendas,Bruno Salles
+PED-00588,2025-07-31,Mouse Ergonomico,Perifericos,1,219.08,Norte,Televendas,Fabio Lemos
+PED-00623,24/03/2025,Caixa de Som Bluetooth,Audio,2,399.10,Sul,Loja Fisica,Elisa Rocha
+PED-01127,2025-08-02,Caixa de Som Bluetooth,Audio,1,415.76,Nordeste,Marketplace,Carla Nunes
+PED-00995,2025-03-15,Notebook Pro 14,Informatica,2,4500.39,Sudeste,Loja Fisica,Elisa Rocha
+PED-00735,2025-12-23,Suporte Monitor,Mobiliario,1,253.60,Centro-Oeste,Loja Fisica,Carla Nunes
+PED-00339,2025-09-12,Mouse Ergonomico,Perifericos,1,238.05,Centro-Oeste,E-commerce,Heitor Braga
+PED-00158,2025-07-10,Cadeira Ergonomica,Mobiliario,1,1456.79,Sudeste,Loja Fisica,Heitor Braga
+PED-00755,2025-03-12,Notebook Pro 14,Informatica,1,4504.33,Nordeste,Televendas,Diego Matos
+PED-00033,2025-05-08,Monitor 27 4K,Informatica,1,1621.22,Sudeste,Marketplace,
+PED-00582,2025-07-21,Mouse Ergonomico,Perifericos,2,221.79,Sul,Marketplace,Diego Matos
+PED-00024,2025-05-16,Mesa Regulavel,Mobiliario,1,2198.31,Norte,Marketplace,Diego Matos
+PED-01134,2025-08-23,Suporte Monitor,Mobiliario,1,289.95,Sudeste,E-commerce,Bruno Salles
+PED-00334,02/10/2025,Caixa de Som Bluetooth,Audio,1,387.25,Sul,E-commerce,Elisa Rocha
+PED-00796,2025-11-01,Webcam Full HD,Perifericos,2,328.50,Norte,E-commerce,Bruno Salles
+PED-00551,2025-03-26,Caixa de Som Bluetooth,Audio,1,419.01,Centro-Oeste,E-commerce,Diego Matos
+PED-00708,2025-03-29,SSD 1TB NVMe,Armazenamento,2,481.06,Sudeste,E-commerce,Fabio Lemos
+PED-00793,2025-12-10,Caixa de Som Bluetooth,Audio,1,390.76,Sul,Loja Fisica,
+PED-01076,2025-04-21,Monitor 27 4K,Informatica,1,1595.46,Nordeste,Loja Fisica,Gisele Amaral
+PED-00876,2025-11-19,Suporte Monitor,Mobiliario,3,251.68,Centro-Oeste,Loja Fisica,Ana Prado
+PED-00430,2025-05-03,Suporte Monitor,Mobiliario,1,273.21,Centro-Oeste,Marketplace,Bruno Salles
+PED-00231,2025-03-04,Notebook Pro 14,Informatica,3,4388.91,Sudeste,Loja Fisica,Gisele Amaral
+PED-01005,2025-03-16,Monitor 27 4K,Informatica,2,1531.97,Nordeste,Televendas,Fabio Lemos
+PED-00364,2025-07-19,Webcam Full HD,Perifericos,2,321.36,Nordeste,Televendas,Bruno Salles
+PED-00562,2025-03-31,Mouse Ergonomico,Perifericos, 1 ,214.92,Sudeste,Televendas,Fabio Lemos
+PED-00956,2025-12-21,SSD 1TB NVMe,Armazenamento,2,554.48,Sudeste,Loja Fisica,Heitor Braga
+PED-00010,2025-12-16,Teclado Mecanico,Perifericos,2,386.14,Sudeste,Loja Fisica,Diego Matos
+PED-00981,2025-03-15,Monitor 27 4K,Informatica,3,1735.56,Sul,Televendas,Heitor Braga
+PED-00132,2025-06-24,Mouse Ergonomico,Perifericos,3,255.12,Norte,Televendas,Ana Prado
+PED-00592,2025-07-15,Dock Station USB-C,Perifericos,1,775.45,Sul,E-commerce,Ana Prado
+PED-00143,2025-07-03,Notebook Pro 14,Informatica,1,4211.38,Nordeste,Marketplace,Carla Nunes
+PED-00871,10/02/2025,Notebook Pro 14,Informatica,2,5097.08,Sul,Televendas,Heitor Braga
+PED-01015,2025-03-03,SSD 1TB NVMe,Armazenamento,2,540.93,Sul,Marketplace,Gisele Amaral
+PED-00572,2025-12-06,Mesa Regulavel,Mobiliario,3,2167.22,Centro-Oeste,Loja Fisica,Ana Prado
+PED-00461,2025-04-21,Microfone Condensador,Audio,2,727.02,Nordeste,Loja Fisica,Bruno Salles
+PED-01046,2025-02-02,Webcam Full HD,Perifericos,1,"334,28",Sul,Marketplace,Elisa Rocha
+PED-00777,2025-09-30,Caixa de Som Bluetooth,Audio,1,428.79,Sudeste,Loja Fisica,Diego Matos
+PED-00428,2025-05-22,Webcam Full HD,Perifericos,1,288.85,Sudeste,Loja Fisica,Elisa Rocha
+PED-00715,2025-01-04,  Dock Station USB-C  ,Perifericos,1,797.66,Norte,Televendas,Diego Matos
+PED-00950,2025-01-29,Cadeira Ergonomica,Mobiliario,4,1485.76,Norte,Televendas,Ana Prado
+PED-00193,2025-01-29,Notebook Pro 14,Informatica,1,5119.29,Sudeste,Loja Fisica,Elisa Rocha
+PED-00321,2025-09-28,Notebook Pro 14,Informatica,1,4681.94,Sul,Loja Fisica,Ana Prado
+PED-00088,2025-02-28,Monitor 27 4K,Informatica,2,1866.52,Sul,Televendas,Bruno Salles
+PED-00349,2025-08-09,Notebook Pro 14,Informatica,2,4839.01,Sul,E-commerce,Bruno Salles
+PED-00473,2025-09-06,Dock Station USB-C,Perifericos,2,841.88,Nordeste,Televendas,Gisele Amaral
+PED-00740,15/06/2025,Dock Station USB-C,Perifericos,2,865.62,Centro-Oeste,Televendas,Bruno Salles
+PED-00480,2025-11-05,SSD 1TB NVMe,Armazenamento,1,472.82,Sul,,Heitor Braga
+PED-00566,2025-07-17,Webcam Full HD,Perifericos,5,297.54,Centro-Oeste,Marketplace,Carla Nunes
+PED-00943,2025-02-20,SSD 1TB NVMe,Armazenamento,3,543.14,Centro-Oeste,Marketplace,Diego Matos
+PED-00529,2025-07-23,Mouse Ergonomico,Perifericos,2,253.61,norte,E-commerce,Ana Prado
+PED-00839,2025-03-18,  Dock Station USB-C  ,Perifericos,1,777.44,Sul,Televendas,Bruno Salles
+PED-01084,14/03/2025,Notebook Pro 14,Informatica,1,4675.25,Nordeste,E-commerce,Fabio Lemos
+PED-00923,2025-05-03,Mesa Regulavel,Mobiliario,1,2152.79,Sul,E-commerce,Carla Nunes
+PED-00768,2025-11-12,Dock Station USB-C,Perifericos,1,932.30,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00741,2025-03-08,Notebook Pro 14,Informatica,2,4221.71,Sul,E-commerce,Diego Matos
+PED-00233,2025-11-11,Suporte Monitor,Mobiliario,1,261.10,Nordeste,Loja Fisica,Gisele Amaral
+PED-00825,11/12/2025,Teclado Mecanico,Perifericos,1,357.77,Centro-Oeste,Marketplace,Ana Prado
+PED-00408,2025-12-27,Cadeira Ergonomica,Mobiliario,2,1362.95,Nordeste,Televendas,Elisa Rocha
+PED-00937,2025-06-25,Microfone Condensador,Audio,1,699.30,Sul,Televendas,Carla Nunes
+PED-00780,2025-05-01,Mesa Regulavel,Mobiliario,1,2232.86,Norte,Televendas,Ana Prado
+PED-00856,2025-02-25,  Mouse Ergonomico  ,Perifericos,5,215.89,Norte,Marketplace,Fabio Lemos
+PED-00670,2025-03-22,Headset Studio,Perifericos,1,509.18,Sudeste,Televendas,Gisele Amaral
+PED-00484,12/08/2025,Headset Studio,Perifericos,1,528.02,Centro-Oeste,Televendas,Carla Nunes
+PED-00013,2025-06-11,Notebook Pro 14,Informatica,1,5078.67,Sul,Marketplace,Gisele Amaral
+PED-00672,14/10/2025,Caixa de Som Bluetooth,Audio,1,379.99,Norte,Televendas,Fabio Lemos
+PED-00776,2025-07-17,Notebook Pro 14,Informatica,1,5020.47,Sul,Marketplace,Bruno Salles
+PED-00594,2025-10-05,  Suporte Monitor  ,Mobiliario,3,248.53,Sudeste,Televendas,Heitor Braga
+PED-00416,2025-09-06,Headset Studio,Perifericos,2,524.80,Nordeste,E-commerce,Ana Prado
+PED-00414,2025-12-24,Suporte Monitor,Mobiliario,10,272.57,Nordeste,E-commerce,Gisele Amaral
+PED-00355,2025-10-18,Teclado Mecanico,Perifericos,1,399.11,Centro-Oeste,Televendas,Ana Prado
+PED-00289,2025-10-07,Monitor 27 4K,Informatica,1,1712.36,Nordeste,Televendas,Heitor Braga
+PED-00307,2025-10-26,Dock Station USB-C,Perifericos,1,815.17,Norte,E-commerce,Elisa Rocha
+PED-00789,2025-11-10,Monitor 27 4K,Informatica,1,1794.46,norte,Televendas,Diego Matos
+PED-00009,2025-07-06,Webcam Full HD,Perifericos,1,321.48,Sul,Televendas,
+PED-00268,2025-06-13,Headset Studio,Perifericos,2,546.60,Nordeste,Marketplace,Carla Nunes
+PED-00557,2025-11-13,Microfone Condensador,Audio,4,713.29,Sudeste,Televendas,Bruno Salles
+PED-00758,2025-02-10,Notebook Pro 14,Informatica,3,4720.11,Sudeste,Televendas,Fabio Lemos
+PED-00734,2025-03-10,Notebook Pro 14,Informatica,2,4506.79,Nordeste,E-commerce,
+PED-00771,2025-08-19,Headset Studio,Perifericos,2,522.48,Centro-Oeste,E-commerce,
+PED-00142,2025-08-16,Dock Station USB-C,Perifericos,2,911.82,Sul,Televendas,Ana Prado
+PED-00619,2025-10-01,Microfone Condensador,Audio,2,707.65,Sul,Loja Fisica,Gisele Amaral
+PED-00723,2025-03-16,Suporte Monitor,Mobiliario,3,255.58,Sudeste,Televendas,
+PED-01140,2025-04-27,Dock Station USB-C,Perifericos,3,"831,57",Sul,Marketplace,Gisele Amaral
+PED-01089,2025-09-11,Suporte Monitor,Mobiliario,1,243.62,Sudeste,Marketplace,Fabio Lemos
+PED-01106,25/09/2025,Mesa Regulavel,Mobiliario,4,2331.92,Centro-Oeste,Televendas,Ana Prado
+PED-01113,2025-12-02,Notebook Pro 14,Informatica,1,4169.51,Centro-Oeste,Marketplace,Gisele Amaral
+PED-00764,11/03/2025,HD Externo 4TB,Armazenamento,1,691.71,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00310,2025-03-10,Headset Studio,Perifericos,2,535.40,Centro-Oeste,Loja Fisica,Heitor Braga
+PED-00257,2025-09-03,Mouse Ergonomico,Perifericos,1,248.25,Norte,Marketplace,Gisele Amaral
+PED-00338,2025-05-25,Caixa de Som Bluetooth,Audio,1,383.10,Centro-Oeste,Marketplace,Fabio Lemos
+PED-00692,2025-04-28,  Cadeira Ergonomica  ,Mobiliario,1,1438.12,Sudeste,Televendas,Diego Matos
+PED-00202,2025-11-05,Notebook Pro 14,Informatica,1,4349.43,Sul,E-commerce,Carla Nunes
+PED-00342,2025-10-19,Monitor 27 4K,Informatica,1,1603.85,Sul,Marketplace,Fabio Lemos
+PED-00206,2025-05-27,SSD 1TB NVMe,Armazenamento,1,472.90,Sudeste,E-commerce,Gisele Amaral
+PED-00830,2025-06-07,Monitor 27 4K,Informatica,2,1831.02,Nordeste,E-commerce,Elisa Rocha
+PED-00040,2025-01-21,Caixa de Som Bluetooth,Audio,2,404.66,Norte,E-commerce,Gisele Amaral
+PED-01018,2025-10-25,Suporte Monitor,Mobiliario,1,279.83,Norte,Televendas,Gisele Amaral
+PED-00074,2025-05-07,Suporte Monitor,Mobiliario,4,262.26,Nordeste,Marketplace,Diego Matos
+PED-00973,2025-01-21,Suporte Monitor,Mobiliario,1,263.88,Sul,E-commerce,Elisa Rocha
+PED-00101,2025-09-29,Mesa Regulavel,Mobiliario,2,2163.25,Nordeste,Marketplace,Fabio Lemos
+PED-00234,2025-07-04,Monitor 27 4K,Informatica,2,1552.15,Sudeste,E-commerce,Gisele Amaral
+PED-00284,2025-10-23,  Mesa Regulavel  ,Mobiliario,3,2301.98,Sul,E-commerce,Heitor Braga
+PED-00805,2025-03-29,Webcam Full HD,Perifericos,2,282.54,Nordeste,Loja Fisica,
+PED-00081,2025-11-15,Microfone Condensador,Audio,1,655.77,Norte,E-commerce,Gisele Amaral
+PED-00660,2025-05-14,Monitor 27 4K,Informatica,1,1731.06,Norte,Marketplace,Fabio Lemos
+PED-00560,2025-02-15,Headset Studio,Perifericos,1,"510,68",Sudeste,Marketplace,
+PED-00526,2025-12-16,Mouse Ergonomico,Perifericos,2,238.07,Sudeste,Marketplace,Carla Nunes
+PED-00514,2025-07-25,Monitor 27 4K,Informatica,2,"1765,23",Sudeste,Marketplace,Fabio Lemos
+PED-00939,2025-04-21,Webcam Full HD,Perifericos,4,311.84,Norte,Marketplace,Heitor Braga
+PED-00085,2025-06-29,Notebook Pro 14,Informatica,3,4207.44,Sul,E-commerce,Ana Prado
+PED-00368,2025-02-13,Notebook Pro 14,Informatica,1,4535.77,Norte,Loja Fisica,Carla Nunes
+PED-00078,2025-10-27,Microfone Condensador,Audio,1,772.19,Sudeste,Marketplace,Heitor Braga
+PED-00909,2025-09-08,Notebook Pro 14,Informatica,2,4736.40,Centro-Oeste,E-commerce,Elisa Rocha
+PED-00272,2025-08-28,  Dock Station USB-C  ,Perifericos,1,933.78,Centro-Oeste,Televendas,Heitor Braga
+PED-00240,2025-05-27,Mouse Ergonomico,Perifericos,1,244.75,Nordeste,E-commerce,Fabio Lemos
+PED-00453,2025-06-07,Notebook Pro 14,Informatica,3,4524.50,Sudeste,,Diego Matos
+PED-01024,2025-10-04,SSD 1TB NVMe,Armazenamento,2,526.21,Norte,E-commerce,Ana Prado
+PED-01101,2025-04-13,Mesa Regulavel,Mobiliario,1,"2114,80",Centro-Oeste,Marketplace,Gisele Amaral
+PED-00392,2025-12-27,Suporte Monitor,Mobiliario,1,252.68,Sudeste,E-commerce,Carla Nunes
+PED-00280,2025-08-22,Suporte Monitor,Mobiliario,1,263.58,Sul,Loja Fisica,Fabio Lemos
+PED-00325,2025-12-11,Notebook Pro 14,Informatica,2,4593.12,Sudeste,Loja Fisica,Ana Prado
+PED-00510,2025-08-23,HD Externo 4TB,Armazenamento,1,632.76,Sudeste,Marketplace,Bruno Salles
+PED-00824,2025-10-19,Notebook Pro 14,Informatica,2,4490.35,Norte,E-commerce,Carla Nunes
+PED-00377,2025-08-25,Mesa Regulavel,Mobiliario,3,1958.83,Sul,Marketplace,Elisa Rocha
+PED-00419,2025-12-02,Microfone Condensador,Audio,5,677.70,Nordeste,Televendas,Bruno Salles
+PED-00443,2025-10-18,SSD 1TB NVMe,Armazenamento,2,472.74,Sul,Televendas,Carla Nunes
+PED-00479,10/09/2025,Microfone Condensador,Audio,10,768.72,norte,Televendas,Carla Nunes
+PED-00462,2025-09-20,Suporte Monitor,Mobiliario,1,257.00,Sudeste,Televendas,Elisa Rocha
+PED-01041,2025-06-04,Headset Studio,Perifericos,3,587.20,Norte,Televendas,Gisele Amaral
+PED-00345,2025-12-09,HD Externo 4TB,Armazenamento,1,"712,52",SUDESTE,E-commerce,Gisele Amaral
+PED-00834,2025-06-08,Caixa de Som Bluetooth,Audio,1,"429,38",nordeste,Loja Fisica,Bruno Salles
+PED-01096,2025-08-20,Headset Studio,Perifericos,5,587.76,Nordeste,Loja Fisica,Diego Matos
+PED-00477,2025-04-01,Caixa de Som Bluetooth,Audio,3,426.98,SUL,Televendas,Fabio Lemos
+PED-00043,2025-02-21,Notebook Pro 14,Informatica,1,5132.99,Sudeste,Loja Fisica,Elisa Rocha
+PED-00887,2025-08-10,Caixa de Som Bluetooth,Audio,2,385.80,Norte,Televendas,Fabio Lemos
+PED-01027,2025-09-07,Webcam Full HD,Perifericos,1,326.74,Sudeste,Marketplace,Heitor Braga
+PED-00361,2025-08-19,Notebook Pro 14,Informatica,2,4922.81,Centro-Oeste,Loja Fisica,Fabio Lemos
+PED-00910,2025-08-19,SSD 1TB NVMe,Armazenamento,2,558.25,SUDESTE,E-commerce,Fabio Lemos
+PED-00456,2025-07-21,Cadeira Ergonomica,Mobiliario,1,1306.29,Sudeste,E-commerce,Gisele Amaral
+PED-00303,2025-08-23,Teclado Mecanico,Perifericos,3,357.20,Nordeste,Loja Fisica,Ana Prado
+PED-01004,2025-02-19,Notebook Pro 14,Informatica,1,4809.40,Sudeste,Loja Fisica,Diego Matos
+PED-00925,2025-09-29,Notebook Pro 14,Informatica,2,4344.18,Sudeste,Televendas,Diego Matos
+PED-00138,2025-03-15,HD Externo 4TB,Armazenamento,4,596.30,Centro-Oeste,Loja Fisica,Bruno Salles
+PED-01048,2025-05-06,Teclado Mecanico,Perifericos,1,346.38,Nordeste,Marketplace,Heitor Braga
+PED-00564,2025-06-18,Microfone Condensador,Audio,1,733.60,NORDESTE,Marketplace,Elisa Rocha
+PED-00261,26/04/2025,Monitor 27 4K,Informatica, 1 ,1856.14,Nordeste,Televendas,Bruno Salles
+PED-01129,2025-08-01,Teclado Mecanico,Perifericos,1,369.80,Centro-Oeste,Televendas,Diego Matos
+PED-01094,2025-02-24,Webcam Full HD,Perifericos,1,"340,79",Nordeste,Loja Fisica,Ana Prado
+PED-00161,2025-09-10,Notebook Pro 14,Informatica,5,4454.17,Sudeste,E-commerce,Diego Matos
+PED-00586,2025-12-03,Suporte Monitor,Mobiliario,3,242.93,Norte,Televendas,Gisele Amaral
+PED-00387,2025-06-13,Notebook Pro 14,Informatica,1,4837.93,Sudeste,Televendas,Ana Prado
+PED-00436,2025-04-15,  Notebook Pro 14  ,Informatica,1,"4656,56",Sul,Televendas,Gisele Amaral
+PED-00314,2025-03-01,  Monitor 27 4K  ,Informatica,1,1707.78,Sul,Marketplace,Bruno Salles
+PED-00224,2025-09-22,HD Externo 4TB,Armazenamento,5,693.60,Sudeste,Televendas,Bruno Salles
+PED-00406,2025-06-29,Teclado Mecanico,Perifericos,3,377.26,Norte,Marketplace,Carla Nunes
+PED-00241,2025-07-24,Mouse Ergonomico,Perifericos,1,230.81,Centro-Oeste,Marketplace,Fabio Lemos
+PED-01060,2025-12-17,Mesa Regulavel,Mobiliario,5,2112.69,Sudeste,Loja Fisica,Heitor Braga
+PED-01110,2025-12-27,Microfone Condensador,Audio,1,649.13,NORDESTE,Televendas,Heitor Braga
+PED-01010,2025-02-27,Webcam Full HD,Perifericos, 1 ,294.62,nordeste,E-commerce,Heitor Braga
+PED-00213,2025-06-29,Notebook Pro 14,Informatica,2,4294.82,Nordeste,Marketplace,Carla Nunes
+PED-00038,2025-09-29,Notebook Pro 14,Informatica,1,4622.80,Sul,E-commerce,Bruno Salles
+PED-00666,2025-02-10,Notebook Pro 14,Informatica,1,4373.39,Norte,E-commerce,Gisele Amaral
+PED-00598,2025-08-15,Suporte Monitor,Mobiliario,1,271.78,Sul,Televendas,Diego Matos
+PED-00918,2025-02-02,Dock Station USB-C,Perifericos,1,787.37,Sudeste,Televendas,Carla Nunes
+PED-00654,2025-11-05,Notebook Pro 14,Informatica,1,4283.96,Norte,E-commerce,Gisele Amaral
+PED-01063,09/09/2025,Mouse Ergonomico,Perifericos,4,253.56,Centro-Oeste,Marketplace,Fabio Lemos
+PED-01025,2025-08-19,Webcam Full HD,Perifericos, 4 ,"287,49",Nordeste,Marketplace,Heitor Braga
+PED-00275,2025-05-16,Microfone Condensador,Audio,1,656.71,Nordeste,Marketplace,Fabio Lemos
+PED-00486,2025-03-07,Webcam Full HD,Perifericos,1,324.95,Sul,E-commerce,Gisele Amaral
+PED-01092,2025-10-20,Cadeira Ergonomica,Mobiliario,10,1267.73,Sul,Marketplace,Bruno Salles
+PED-01029,2025-06-30,Cadeira Ergonomica,Mobiliario,10,1450.35,Nordeste,Televendas,Ana Prado
+PED-00495,05/09/2025,Headset Studio,Perifericos,2,582.66,Sudeste,Marketplace,Carla Nunes
+PED-00954,2025-08-05,Headset Studio,Perifericos,4,569.48,Nordeste,E-commerce,Bruno Salles
+PED-00539,2025-08-04,Headset Studio,Perifericos,1,613.55,Nordeste,Televendas,Elisa Rocha
+PED-00383,2025-05-13,Dock Station USB-C,Perifericos,1,758.38,Sul,Loja Fisica,Heitor Braga
+PED-00730,2025-10-25,Dock Station USB-C,Perifericos,1,928.95,Centro-Oeste,Loja Fisica,Fabio Lemos
+PED-00330,2025-09-26,Headset Studio,Perifericos,5,589.58,Nordeste,Marketplace,Gisele Amaral
+PED-00184,2025-05-23,Headset Studio,Perifericos,4,"553,18",NORTE,Loja Fisica,Gisele Amaral
+PED-00476,2025-01-29,Teclado Mecanico,Perifericos,2,352.20,Sul,Marketplace,Fabio Lemos
+PED-00532,02/06/2025,Mesa Regulavel,Mobiliario, 2 ,2355.21,Sul,Loja Fisica,Diego Matos
+PED-00511,2025-10-26,Webcam Full HD,Perifericos,1,316.93,Sudeste,E-commerce,Bruno Salles
+PED-00953,2025-10-25,Teclado Mecanico,Perifericos,2,382.03,Sul,Loja Fisica,Fabio Lemos
+PED-00522,2025-11-22,Headset Studio,Perifericos,3,569.66,Sudeste,E-commerce,Diego Matos
+PED-01092,2025-10-20,Cadeira Ergonomica,Mobiliario,10,1267.73,Sul,Marketplace,Bruno Salles
+PED-00661,2025-04-15,Cadeira Ergonomica,Mobiliario,1,1469.32,Centro-Oeste,Marketplace,Carla Nunes
+PED-01078,28/11/2025,Caixa de Som Bluetooth,Audio,1,405.00,Centro-Oeste,E-commerce,Ana Prado
+PED-01037,2025-03-27,HD Externo 4TB,Armazenamento,3,687.45,Norte,Televendas,Fabio Lemos
+PED-00398,2025-08-19,SSD 1TB NVMe,Armazenamento,1,487.19,Norte,E-commerce,Fabio Lemos
+PED-00927,2025-08-31,  Dock Station USB-C  ,Perifericos,1,906.69,Centro-Oeste,Loja Fisica,Carla Nunes
+PED-00172,2025-10-31,SSD 1TB NVMe,Armazenamento,1,"506,40",Sudeste,Marketplace,Diego Matos
+PED-00965,2025-03-24,SSD 1TB NVMe,Armazenamento,5,534.58,Norte,Televendas,Carla Nunes
+PED-00630,2025-09-07,SSD 1TB NVMe,Armazenamento,1,551.72,Norte,E-commerce,Carla Nunes
+PED-00680,2025-05-18,Headset Studio,Perifericos,1,616.29,Sul,Loja Fisica,Heitor Braga
+PED-00810,2025-11-04,SSD 1TB NVMe,Armazenamento,1,"475,37",SUDESTE,Loja Fisica,Elisa Rocha
+PED-00482,2025-03-14,Notebook Pro 14,Informatica,1,4730.20,Sudeste,Televendas,Bruno Salles
+PED-00804,2025-02-13,Notebook Pro 14,Informatica,2,4776.62,Norte,Marketplace,Carla Nunes
+PED-00084,2025-08-04,Dock Station USB-C,Perifericos,4,806.03,Nordeste,E-commerce,Heitor Braga
+PED-00745,2025-11-12,Microfone Condensador,Audio,1,742.77,Nordeste,E-commerce,Bruno Salles
+PED-01050,2025-05-23,Monitor 27 4K,Informatica,1,1804.20,Norte,Loja Fisica,Ana Prado
+PED-00501,2025-12-05,Mouse Ergonomico,Perifericos,3,235.95,Nordeste,E-commerce,Gisele Amaral
+PED-00908,2025-04-08,Notebook Pro 14,Informatica,4,4584.85,SUL,E-commerce,Diego Matos
+PED-00599,2025-08-18,Dock Station USB-C,Perifericos,3,790.94,Sul,E-commerce,Carla Nunes
+PED-00521,2025-01-26,Microfone Condensador,Audio,1,641.60,Nordeste,Loja Fisica,Elisa Rocha
+PED-00872,15/02/2025,HD Externo 4TB,Armazenamento,1,718.56,Sul,Marketplace,Bruno Salles
+PED-00130,2025-12-28,SSD 1TB NVMe,Armazenamento,5,498.70,Nordeste,Marketplace,Heitor Braga
+PED-00894,2025-11-28,Microfone Condensador,Audio,2,692.97,Norte,Loja Fisica,Bruno Salles
+PED-00287,14/09/2025,Monitor 27 4K,Informatica,1,"1594,49",Norte,Marketplace,Ana Prado
+PED-00815,2025-08-07,Headset Studio,Perifericos,4,607.42,Norte,E-commerce,Elisa Rocha
+PED-00645,2025-09-03,Suporte Monitor,Mobiliario,1,274.83,Sul,Loja Fisica,Gisele Amaral
+PED-00055,2025-07-30,Notebook Pro 14,Informatica,1,5060.65,Sul,Televendas,Carla Nunes
+PED-00254,03/06/2025,Suporte Monitor,Mobiliario,1,267.40,SUL,Loja Fisica,Fabio Lemos
+PED-00336,2025-01-08,Teclado Mecanico,Perifericos,4,357.38,Sul,Loja Fisica,Bruno Salles
+PED-01015,2025-03-03,SSD 1TB NVMe,Armazenamento,2,540.93,Sul,Marketplace,Gisele Amaral
+PED-00809,10/09/2025,HD Externo 4TB,Armazenamento,3,679.15,Sul,Loja Fisica,Heitor Braga
+PED-01079,2025-12-21,SSD 1TB NVMe,Armazenamento,1,502.14,Centro-Oeste,Loja Fisica,Gisele Amaral
+PED-00549,2025-02-03,Webcam Full HD,Perifericos,2,299.79,Sudeste,Televendas,Elisa Rocha
+PED-00875,2025-05-29,Headset Studio,Perifericos,5,604.78,Sul,E-commerce,Elisa Rocha
+PED-00194,2025-05-29,Teclado Mecanico,Perifericos,3,391.00,Nordeste,E-commerce,Ana Prado
+PED-00602,2025-01-27,Notebook Pro 14,Informatica,1,4472.03,Norte,Televendas,Heitor Braga
+PED-00631,2025-03-13,Mesa Regulavel,Mobiliario,2,2332.04,Norte,Loja Fisica,Elisa Rocha
+PED-01120,2025-07-20,Teclado Mecanico,Perifericos,1,396.10,Sudeste,Televendas,Ana Prado
+PED-00048,2025-09-08,Mesa Regulavel,Mobiliario, 2 ,2067.40,NORDESTE,E-commerce,Bruno Salles
+PED-00944,2025-07-28,  Notebook Pro 14  ,Informatica,2,4168.65,Sul,Loja Fisica,Fabio Lemos
+PED-00251,2025-05-15,  HD Externo 4TB  ,Armazenamento,1,672.67,Nordeste,Marketplace,Diego Matos
+PED-00652,2025-04-14,Webcam Full HD,Perifericos,1,"286,79",norte,Marketplace,Carla Nunes
+PED-00440,12/09/2025,Suporte Monitor,Mobiliario,1,237.78,Nordeste,Televendas,Carla Nunes
+PED-01054,2025-06-10,Caixa de Som Bluetooth,Audio,1,406.42,Nordeste,Marketplace,Diego Matos
+PED-00326,2025-01-29,Webcam Full HD,Perifericos,1,315.17,Sul,Televendas,Diego Matos
+PED-00384,2025-10-29,Headset Studio,Perifericos,1,601.68,Norte,Loja Fisica,Fabio Lemos
+PED-00712,2025-03-21,SSD 1TB NVMe,Armazenamento,1,511.91,Nordeste,E-commerce,Ana Prado
+PED-01059,2025-05-10,Suporte Monitor,Mobiliario,4,274.63,Norte,Marketplace,Elisa Rocha
+PED-00546,2025-01-03,Webcam Full HD,Perifericos,1,311.06,Sudeste,Loja Fisica,Fabio Lemos
+PED-01118,2025-01-12,Dock Station USB-C,Perifericos,1,840.87,Sudeste,Loja Fisica,Carla Nunes
+PED-00195,2025-07-14,SSD 1TB NVMe,Armazenamento,3,485.94,Norte,Loja Fisica,Fabio Lemos
+PED-00814,2025-01-19,SSD 1TB NVMe,Armazenamento,3,506.20,Sudeste,Televendas,Fabio Lemos
+PED-01132,2025-04-25,Notebook Pro 14,Informatica,2,4274.53,Centro-Oeste,Televendas,Fabio Lemos
+PED-00947,2025-04-05,Dock Station USB-C,Perifericos,1,881.66,Nordeste,Marketplace,Ana Prado
+PED-00904,2025-09-04,Webcam Full HD,Perifericos,5,333.47,Sudeste,Televendas,Fabio Lemos
+PED-00148,2025-04-12,Suporte Monitor,Mobiliario,1,284.32,Centro-Oeste,Marketplace,Bruno Salles
+PED-00122,2025-09-09,Monitor 27 4K,Informatica,10,1677.55,Sudeste,Marketplace,Fabio Lemos
+PED-00067,2025-06-21,  Mouse Ergonomico  ,Perifericos,2,244.05,Sudeste,Loja Fisica,Elisa Rocha
+PED-00729,2025-05-22,Mesa Regulavel,Mobiliario,1,1953.40,Norte,E-commerce,Gisele Amaral
+PED-00900,2025-02-06,Suporte Monitor,Mobiliario,1,239.10,Norte,Televendas,Heitor Braga
+PED-00445,2025-01-24,Notebook Pro 14,Informatica,4,4168.52,Centro-Oeste,Televendas,Gisele Amaral
+PED-00903,2025-02-05,SSD 1TB NVMe,Armazenamento,1,559.33,Norte,Loja Fisica,Ana Prado
+PED-01085,2025-05-24,Notebook Pro 14,Informatica,10,4644.73,Nordeste,Marketplace,Elisa Rocha
+PED-00819,2025-07-01,Mouse Ergonomico,Perifericos,2,262.15,Sul,Marketplace,Heitor Braga
+PED-00540,2025-08-29,Cadeira Ergonomica,Mobiliario,1,1520.16,Sudeste,E-commerce,Heitor Braga
+PED-00964,2025-01-25,Headset Studio,Perifericos,10,601.37,Sul,Televendas,Elisa Rocha
+PED-01137,2025-03-04,Mesa Regulavel,Mobiliario,1,"2321,68",sul,Marketplace,Gisele Amaral
+PED-00677,2025-11-21,SSD 1TB NVMe,Armazenamento,1,474.07,Sul,Loja Fisica,Fabio Lemos
+PED-00382,2025-11-10,Mesa Regulavel,Mobiliario,2,2022.68,Sudeste,Marketplace,Fabio Lemos
+PED-00829,2025-07-12,Monitor 27 4K,Informatica,1,1532.66,Norte,Loja Fisica,Gisele Amaral
+PED-00379,2025-08-05,Teclado Mecanico,Perifericos,1,343.44,Centro-Oeste,E-commerce,Heitor Braga
+PED-00246,2025-02-08,Mesa Regulavel,Mobiliario,10,2380.64,Centro-Oeste,Televendas,Carla Nunes
+PED-00468,2025-07-22,Monitor 27 4K,Informatica,5,1676.57,Centro-Oeste,E-commerce,Gisele Amaral
+PED-00313,2025-10-08,Notebook Pro 14,Informatica,4,4266.24,Norte,Loja Fisica,Carla Nunes
+PED-00216,03/04/2025,HD Externo 4TB,Armazenamento,1,644.84,Sul,Televendas,Heitor Braga
+PED-00959,2025-03-09,Webcam Full HD,Perifericos,5,315.28,Centro-Oeste,Televendas,Gisele Amaral
+PED-00347,2025-11-23,HD Externo 4TB,Armazenamento,1,602.60,NORTE,Marketplace,Heitor Braga
+PED-00114,2025-04-29,Suporte Monitor,Mobiliario,2,253.40,Nordeste,Televendas,Heitor Braga
+PED-01009,2025-02-24,Suporte Monitor,Mobiliario,2,261.68,Sul,Televendas,Gisele Amaral
+PED-00807,2025-11-17,Suporte Monitor,Mobiliario,3,262.05,Sul,E-commerce,Carla Nunes
+PED-00671,2025-04-13,Headset Studio,Perifericos,2,557.72,Norte,E-commerce,Bruno Salles
+PED-00389,2025-10-14,HD Externo 4TB,Armazenamento,1,616.54,Centro-Oeste,Marketplace,Diego Matos
+PED-01072,2025-01-26,Teclado Mecanico,Perifericos, 1 ,397.84,Centro-Oeste,Marketplace,Elisa Rocha
+PED-00694,2025-11-19,Monitor 27 4K,Informatica,1,1569.64,Norte,Televendas,Heitor Braga
+PED-00852,2025-05-03,HD Externo 4TB,Armazenamento,1,676.71,Norte,Loja Fisica,Carla Nunes
+PED-01115,2025-01-08,Dock Station USB-C,Perifericos,1,778.77,Sul,E-commerce,Ana Prado
+PED-00104,2025-09-26,Suporte Monitor,Mobiliario,1,277.58,Norte,Televendas,Bruno Salles
+PED-00933,2025-07-12,  Teclado Mecanico  ,Perifericos,3,399.25,Sul,E-commerce,Heitor Braga
+PED-01008,2025-02-20,Caixa de Som Bluetooth,Audio,3,356.51,Sul,Marketplace,Fabio Lemos
+PED-00864,2025-07-04,  Monitor 27 4K  ,Informatica,1,1659.19,Centro-Oeste,Loja Fisica,Elisa Rocha
+PED-00181,2025-12-10,Cadeira Ergonomica,Mobiliario,5,1433.88,Sudeste,Marketplace,Fabio Lemos
+PED-00023,2025-09-06,Caixa de Som Bluetooth,Audio,2,362.75,Sudeste,Loja Fisica,Carla Nunes
+PED-00201,28/06/2025,HD Externo 4TB,Armazenamento,2,720.80,Nordeste,Loja Fisica,Diego Matos
+PED-00183,2025-12-03,  Notebook Pro 14  ,Informatica,2,4364.56,Centro-Oeste,Loja Fisica,Bruno Salles
+PED-00252,2025-09-09,Cadeira Ergonomica,Mobiliario,1,"1539,61",Sul,E-commerce,Carla Nunes
+PED-00568,2025-11-09,Dock Station USB-C,Perifericos,2,834.49,Centro-Oeste,Televendas,Ana Prado
+PED-00741,2025-03-08,Notebook Pro 14,Informatica,2,4221.71,Sul,E-commerce,Diego Matos
+PED-00348,2025-01-07,Notebook Pro 14,Informatica,1,4696.01,Sudeste,Televendas,Elisa Rocha
+PED-01011,2025-07-04,Notebook Pro 14,Informatica,2,4641.41,Nordeste,E-commerce,Bruno Salles
+PED-00737,2025-05-15,HD Externo 4TB,Armazenamento,1,635.49,Norte,Televendas,Heitor Braga
+PED-00269,2025-06-13,Dock Station USB-C,Perifericos,1,856.47,Sul,Marketplace,Bruno Salles
+PED-00907,2025-07-19,Webcam Full HD,Perifericos,2,299.32,Sudeste,Televendas,Heitor Braga
+PED-00225,2025-09-20,Dock Station USB-C,Perifericos,1,836.48,Sul,Marketplace,Bruno Salles
+PED-00179,2025-07-11,Headset Studio,Perifericos,1,588.83,Sul,Marketplace,Bruno Salles
+PED-00291,2025-06-12,Suporte Monitor,Mobiliario,1,276.49,Centro-Oeste,Televendas,Elisa Rocha
+PED-00203,2025-10-16,Dock Station USB-C,Perifericos,2,839.08,norte,Marketplace,Fabio Lemos
+PED-00204,2025-08-14,Microfone Condensador,Audio,10,684.01,SUDESTE,Marketplace,Heitor Braga
+PED-00031,2025-01-28,Webcam Full HD,Perifericos,1,336.49,Sudeste,E-commerce,Gisele Amaral
+PED-00999,2025-08-15,Mouse Ergonomico,Perifericos,2,219.36,Norte,Televendas,Carla Nunes
+PED-00045,2025-11-10,SSD 1TB NVMe,Armazenamento,3,543.90,Norte,E-commerce,Elisa Rocha
+PED-00369,2025-06-04,Mesa Regulavel,Mobiliario,1,2010.09,NORDESTE,Marketplace,Carla Nunes
+PED-00784,2025-10-25,HD Externo 4TB,Armazenamento,1,685.37,Norte,Loja Fisica,Carla Nunes
+PED-00935,2025-04-10,Webcam Full HD,Perifericos,1,309.77,Nordeste,Televendas,Diego Matos
+PED-00600,2025-01-21,Monitor 27 4K,Informatica,3,1564.23,Centro-Oeste,Televendas,Elisa Rocha
+PED-00647,2025-05-13,Caixa de Som Bluetooth,Audio,2,360.84,Sul,Marketplace,Ana Prado
+PED-00200,2025-06-20,Microfone Condensador,Audio,1,687.51,Sul,E-commerce,Bruno Salles
+PED-00902,20/07/2025,Mouse Ergonomico,Perifericos,1,228.90,Norte,E-commerce,Heitor Braga
+PED-00596,2025-05-28,HD Externo 4TB,Armazenamento,3,705.83,Sudeste,Marketplace,Gisele Amaral
+PED-00292,2025-07-14,  Mouse Ergonomico  ,Perifericos,1,"246,23",centro-oeste,Televendas,Carla Nunes
+PED-00236,2025-12-03,Dock Station USB-C,Perifericos,1,799.42,sudeste,Televendas,Carla Nunes
+PED-00062,2025-06-19,Headset Studio,Perifericos,1,622.83,Norte,Televendas,Bruno Salles
+PED-01082,2025-07-22,Mouse Ergonomico,Perifericos,2,231.45,NORDESTE,Loja Fisica,Ana Prado
+PED-00152,2025-12-15,Mesa Regulavel,Mobiliario,3,2298.00,Sul,E-commerce,Ana Prado
+PED-00021,2025-09-29,Headset Studio,Perifericos,3,573.77,Sudeste,Televendas,Heitor Braga
+PED-00744,2025-11-24,Caixa de Som Bluetooth,Audio,4,362.85,Sudeste,,Gisele Amaral
+PED-00014,2025-05-16,Caixa de Som Bluetooth,Audio,4,394.60,Sul,Loja Fisica,Elisa Rocha
+PED-00378,2025-07-29,Microfone Condensador,Audio,2,759.33,Centro-Oeste,Loja Fisica,Elisa Rocha
+PED-00820,2025-04-30,SSD 1TB NVMe,Armazenamento,3,563.68,Nordeste,Loja Fisica,Ana Prado
+PED-00421,2025-01-01,Webcam Full HD,Perifericos,2,325.95,Sul,Marketplace,Bruno Salles
+PED-00770,2025-11-14,Notebook Pro 14,Informatica,3,4394.20,sul,Televendas,Ana Prado
+PED-01056,2025-09-09,Webcam Full HD,Perifericos,1,318.44,Norte,Televendas,Bruno Salles
+PED-00985,2025-08-26,Microfone Condensador,Audio,2,710.67,Sul,E-commerce,Ana Prado
+PED-00490,2025-06-29,Mouse Ergonomico,Perifericos,1,247.06,Nordeste,E-commerce,Ana Prado
+PED-00437,2025-12-15,Cadeira Ergonomica,Mobiliario,2,1515.19,Sudeste,Televendas,Gisele Amaral
+PED-00956,2025-12-21,SSD 1TB NVMe,Armazenamento,2,554.48,Sudeste,Loja Fisica,Heitor Braga
+PED-00472,2025-09-27,Webcam Full HD,Perifericos,1,337.86,Sul,E-commerce,Gisele Amaral
+PED-00457,2025-05-14,Mesa Regulavel,Mobiliario,5,2054.94,Nordeste,Marketplace,Fabio Lemos
+PED-00008,2025-05-29,Suporte Monitor,Mobiliario,1,274.05,Sudeste,Loja Fisica,Bruno Salles
+PED-00450,2025-06-05,Notebook Pro 14,Informatica,1,4441.68,Norte,Loja Fisica,Heitor Braga
+PED-01016,2025-03-28,Suporte Monitor,Mobiliario,2,242.83,Sudeste,Televendas,Diego Matos
+PED-00087,2025-04-22,Monitor 27 4K,Informatica,1,1562.45,Centro-Oeste,Televendas,Fabio Lemos
+PED-00931,24/10/2025,Caixa de Som Bluetooth,Audio,1,393.43,Nordeste,Marketplace,Diego Matos
+PED-00215,2025-12-17,Mesa Regulavel,Mobiliario,2,2380.28,Norte,E-commerce,Gisele Amaral
+PED-00333,2025-05-11,HD Externo 4TB,Armazenamento,2,648.45,Sul,Televendas,Bruno Salles
+PED-00674,2025-10-14,Mouse Ergonomico,Perifericos,1,237.72,Sudeste,Televendas,Fabio Lemos
+PED-00858,2025-07-19,Mesa Regulavel,Mobiliario,1,2189.82,Norte,Marketplace,Diego Matos
+PED-00614,2025-02-07,SSD 1TB NVMe,Armazenamento,2,470.81,Sudeste,Loja Fisica,Elisa Rocha
+PED-00688,2025-07-14,Suporte Monitor,Mobiliario,1,274.76,Norte,E-commerce,Fabio Lemos
+PED-00679,2025-06-25,Notebook Pro 14,Informatica,1,4888.81,Sudeste,Loja Fisica,Heitor Braga
+PED-00958,2025-03-19,Mouse Ergonomico,Perifericos,1,219.81,Sul,E-commerce,Elisa Rocha
+PED-00975,2025-09-27,Notebook Pro 14,Informatica,2,4347.36,SUL,Televendas,Diego Matos
+PED-00388,2025-06-25,Dock Station USB-C,Perifericos,2,760.52,SUDESTE,Loja Fisica,Diego Matos
+PED-00700,2025-03-27,SSD 1TB NVMe,Armazenamento,2,482.55,Nordeste,Marketplace,
+PED-00141,2025-04-27,Teclado Mecanico,Perifericos,2,403.23,Sudeste,Marketplace,Bruno Salles
+PED-00413,2025-09-07,Suporte Monitor,Mobiliario,5,257.74,Nordeste,E-commerce,Bruno Salles
+PED-00411,2025-07-21,Microfone Condensador,Audio,1,763.01,Centro-Oeste,Loja Fisica,Elisa Rocha
+PED-00401,2025-05-30,Cadeira Ergonomica,Mobiliario,1,1493.29,Sudeste,Televendas,Diego Matos
+PED-00705,2025-08-31,Monitor 27 4K,Informatica,1,1555.71,Norte,E-commerce,Ana Prado
+PED-00865,2025-02-06,Microfone Condensador,Audio,2,656.76,Sudeste,Loja Fisica,Heitor Braga
+PED-01146,2025-03-17,Microfone Condensador,Audio,1,715.71,CENTRO-OESTE,Marketplace,Diego Matos
+PED-01039,2025-07-25,Mouse Ergonomico,Perifericos,1,262.21,Sul,E-commerce,Bruno Salles
+PED-00487,2025-01-17,Microfone Condensador,Audio,10,781.23,Sul,Televendas,Diego Matos
+PED-00118,2025-05-20,SSD 1TB NVMe,Armazenamento,2,543.48,Norte,Marketplace,Heitor Braga
+PED-00297,2025-12-01,HD Externo 4TB,Armazenamento,10,616.23,Centro-Oeste,Marketplace,Diego Matos
+PED-01061,2025-05-11,Webcam Full HD,Perifericos,1,342.87,Nordeste,E-commerce,Diego Matos
+PED-00017,2025-08-28,Cadeira Ergonomica,Mobiliario,1,1380.22,Norte,Televendas,Ana Prado
+PED-00756,2025-10-20,Teclado Mecanico,Perifericos,1,354.83,Centro-Oeste,Loja Fisica,Bruno Salles
+PED-00597,2025-06-10,Webcam Full HD,Perifericos,5,343.86,Norte,E-commerce,Ana Prado
+PED-00703,2025-10-28,Dock Station USB-C,Perifericos,4,821.14,Norte,Marketplace,Gisele Amaral
+PED-00633,2025-10-10,Dock Station USB-C,Perifericos,2,917.82,NORDESTE,Marketplace,Carla Nunes
+PED-00962,2025-10-08,SSD 1TB NVMe,Armazenamento,2,543.17,Centro-Oeste,Marketplace,Elisa Rocha
+PED-00302,2025-09-10,SSD 1TB NVMe,Armazenamento,10,526.30,Sul,Marketplace,Elisa Rocha
+PED-00299,2025-01-20,HD Externo 4TB,Armazenamento,3,713.03,Sul,Marketplace,Carla Nunes
+PED-00638,2025-07-04,Teclado Mecanico,Perifericos,1,347.54,Centro-Oeste,Marketplace,Heitor Braga
+PED-00733,2025-11-27,Teclado Mecanico,Perifericos,1,374.96,Nordeste,,Diego Matos
+PED-01051,2025-02-12,Suporte Monitor,Mobiliario,1,238.26,Nordeste,Televendas,Bruno Salles
+PED-00893,2025-11-03,Cadeira Ergonomica,Mobiliario,2,1515.47,Sudeste,E-commerce,Bruno Salles
+PED-00639,2025-06-15,Caixa de Som Bluetooth,Audio,1,438.32,Sudeste,Televendas,Elisa Rocha
+PED-01131,2025-01-17,Monitor 27 4K,Informatica, 3 ,1841.72,Sudeste,Televendas,Gisele Amaral
+PED-00124,2025-10-09,Mouse Ergonomico,Perifericos,2,"232,43",Sudeste,Marketplace,Bruno Salles
+PED-00091,2025-06-27,Dock Station USB-C,Perifericos,10,895.81,Norte,Marketplace,Fabio Lemos
+PED-00282,2025-01-09,Suporte Monitor,Mobiliario,2,263.65,Nordeste,Televendas,Bruno Salles
+PED-00498,2025-10-09,Teclado Mecanico,Perifericos,1,362.05,Centro-Oeste,Loja Fisica,Ana Prado
+PED-00381,2025-11-23,Suporte Monitor,Mobiliario,4,267.11,Sudeste,E-commerce,Diego Matos
+PED-00911,2025-07-27,Notebook Pro 14,Informatica,1,4861.65,Sudeste,,Heitor Braga
+PED-00986,2025-11-22,  Monitor 27 4K  ,Informatica,1,1863.76,Centro-Oeste,E-commerce,Elisa Rocha
+PED-00863,2025-10-07,Suporte Monitor,Mobiliario,1,258.44,Sul,Loja Fisica,Heitor Braga
+PED-00728,2025-01-27,SSD 1TB NVMe,Armazenamento,2,488.47,Sul,E-commerce,Diego Matos
+PED-00525,2025-04-20,Webcam Full HD,Perifericos,1,335.83,Sul,Loja Fisica,Diego Matos
+PED-01043,2025-04-06,Caixa de Som Bluetooth,Audio,1,415.09,Norte,Marketplace,Diego Matos
+PED-00259,2025-10-10,Mesa Regulavel,Mobiliario,2,2005.28,Norte,Loja Fisica,Carla Nunes
+PED-00397,2025-04-06,Cadeira Ergonomica,Mobiliario, 1 ,1380.85,Centro-Oeste,Loja Fisica,Carla Nunes
+PED-00139,2025-11-16,  SSD 1TB NVMe  ,Armazenamento,3,495.75,Centro-Oeste,E-commerce,Fabio Lemos
+PED-00026,2025-05-07,SSD 1TB NVMe,Armazenamento,4,516.22,Sul,E-commerce,Fabio Lemos
+PED-00211,2025-11-20,Dock Station USB-C,Perifericos,1,862.92,Nordeste,E-commerce,Fabio Lemos
+PED-00222,2025-09-15,SSD 1TB NVMe,Armazenamento,3,552.09,Norte,Marketplace,Carla Nunes
+PED-00395,10/03/2025,Caixa de Som Bluetooth,Audio,2,363.25,NORDESTE,E-commerce,Diego Matos
+PED-00673,2025-04-10,Microfone Condensador,Audio,1,727.48,Centro-Oeste,Marketplace,
+PED-01060,2025-12-17,Mesa Regulavel,Mobiliario,5,2112.69,Sudeste,Loja Fisica,Heitor Braga
+PED-00930,2025-01-15,Caixa de Som Bluetooth,Audio,2,369.39,Centro-Oeste,E-commerce,Bruno Salles
+PED-00054,2025-05-02,Cadeira Ergonomica,Mobiliario,3,1542.38,Sul,Loja Fisica,Gisele Amaral
+PED-00696,2025-11-19,Notebook Pro 14,Informatica,1,4405.20,Sudeste,Marketplace,Fabio Lemos
+PED-00208,2025-02-01,Cadeira Ergonomica,Mobiliario,1,1311.46,centro-oeste,E-commerce,Fabio Lemos
+PED-00877,2025-11-16,Mesa Regulavel,Mobiliario,10,2316.97,Sudeste,Televendas,Heitor Braga
+PED-00951,2025-01-21,Notebook Pro 14,Informatica,1,4611.62,Nordeste,Televendas,Carla Nunes
+PED-00787,2025-07-31,Suporte Monitor,Mobiliario,1,254.93,Centro-Oeste,Televendas,Heitor Braga
+PED-00929,21/08/2025,Mouse Ergonomico,Perifericos,1,252.66,Sudeste,E-commerce,Ana Prado
+PED-00022,2025-06-07,Notebook Pro 14,Informatica,1,4511.50,Sul,E-commerce,Diego Matos
+PED-00478,2025-06-30,Caixa de Som Bluetooth,Audio,2,415.10,Norte,Loja Fisica,Diego Matos
+PED-00842,2025-10-04,Notebook Pro 14,Informatica,1,5029.11,Centro-Oeste,E-commerce,Carla Nunes
+PED-00197,2025-07-27,Microfone Condensador,Audio,1,700.96,Centro-Oeste,Televendas,Bruno Salles
+PED-00823,2025-06-07,Suporte Monitor,Mobiliario,1,281.24,NORDESTE,Televendas,Ana Prado
+PED-00782,2025-03-12,Monitor 27 4K,Informatica,1,1662.14,Sudeste,Marketplace,Diego Matos
+PED-00604,2025-08-01,HD Externo 4TB,Armazenamento,1,664.77,Norte,Marketplace,Bruno Salles
+PED-00107,2025-09-03,Microfone Condensador,Audio,1,679.24,centro-oeste,Televendas,Carla Nunes
+PED-00115,2025-11-17,Notebook Pro 14,Informatica,2,5060.09,Norte,Loja Fisica,Gisele Amaral
+PED-00209,2025-01-21,Suporte Monitor,Mobiliario,1,273.20,Sul,Marketplace,Heitor Braga
+PED-00135,2025-10-20,Microfone Condensador,Audio,1,741.14,centro-oeste,Loja Fisica,Gisele Amaral
+PED-00005,2025-06-22,  Mouse Ergonomico  ,Perifericos,1,260.26,Sudeste,E-commerce,
+PED-00618,2025-05-25,Dock Station USB-C,Perifericos,2,864.47,Centro-Oeste,Marketplace,Gisele Amaral
+PED-00113,2025-03-22,Monitor 27 4K,Informatica,1,1719.11,Sudeste,Marketplace,Heitor Braga
+PED-00906,2025-05-29,Notebook Pro 14,Informatica,4,4900.22,Sul,Loja Fisica,Ana Prado
+PED-00127,2025-05-28,Teclado Mecanico,Perifericos,1,341.63,Centro-Oeste,Marketplace,Bruno Salles
+PED-00262,2025-05-21,Mouse Ergonomico,Perifericos,1,260.21,Sul,Televendas,Bruno Salles
+PED-00134,2025-10-06,HD Externo 4TB,Armazenamento, 1 ,640.63,Centro-Oeste,Marketplace,Fabio Lemos
+PED-00642,2025-09-04,Microfone Condensador,Audio,4,709.58,Norte,E-commerce,Carla Nunes
+PED-00773,2025-12-24,  Cadeira Ergonomica  ,Mobiliario,3,1308.62,Sudeste,Marketplace,Ana Prado
+PED-00069,2025-04-10,SSD 1TB NVMe,Armazenamento,1,535.80,Centro-Oeste,Marketplace,Gisele Amaral
+PED-00125,2025-07-26,Headset Studio,Perifericos,1,523.04,norte,E-commerce,Heitor Braga
+PED-00176,2025-10-08,Monitor 27 4K,Informatica,1,1748.14,Nordeste,Marketplace,Elisa Rocha
+PED-00256,10/10/2025,Headset Studio,Perifericos,2,553.35,Sul,E-commerce,
+PED-00915,2025-02-02,SSD 1TB NVMe,Armazenamento,2,558.37,Sudeste,E-commerce,Heitor Braga
+PED-00196,2025-08-12,Notebook Pro 14,Informatica,1,4882.22,Sudeste,Marketplace,Bruno Salles
+PED-00899,2025-08-09,Mesa Regulavel,Mobiliario,1,2012.39,Sul,E-commerce,Heitor Braga
+PED-00150,2025-01-26,Mouse Ergonomico,Perifericos,1,255.65,Norte,Marketplace,Elisa Rocha
+PED-00485,2025-11-11,Suporte Monitor,Mobiliario,5,275.85,nordeste,Loja Fisica,Carla Nunes
+PED-01065,08/10/2025,Headset Studio,Perifericos,1,596.51,Nordeste,Marketplace,Ana Prado
+PED-00684,2025-10-22,Headset Studio,Perifericos,2,568.13,Nordeste,Marketplace,Carla Nunes
+PED-00112,2025-04-17,Cadeira Ergonomica,Mobiliario,5,1296.07,Sul,Televendas,Bruno Salles
+PED-00698,2025-11-07,Notebook Pro 14,Informatica,1,4821.13,Sul,Loja Fisica,Elisa Rocha
+PED-00489,2025-02-15,Headset Studio,Perifericos,10,529.26,Nordeste,Marketplace,Ana Prado
+PED-00970,2025-08-23,  Webcam Full HD  ,Perifericos,5,330.22,Nordeste,Loja Fisica,Ana Prado
+PED-00221,2025-08-29,Teclado Mecanico,Perifericos,2,355.55,Sul,Televendas,Heitor Braga
+PED-00507,2025-03-27,Dock Station USB-C,Perifericos,1,925.43,Sul,Loja Fisica,Carla Nunes
+PED-00513,2025-01-20,Mesa Regulavel,Mobiliario,1,2225.40,Sul,Televendas,Gisele Amaral
+PED-00685,2025-04-24,Dock Station USB-C,Perifericos,4,806.39,Norte,Loja Fisica,Ana Prado
+PED-00050,2025-08-07,Monitor 27 4K,Informatica,3,1719.00,NORTE,E-commerce,Bruno Salles
+PED-00885,2025-03-16,Mesa Regulavel,Mobiliario,2,"2163,86",Norte,Marketplace,Ana Prado
+PED-00983,2025-03-31,Webcam Full HD,Perifericos,2,297.64,Norte,Marketplace,Carla Nunes
+PED-00058,2025-05-23,  Webcam Full HD  ,Perifericos,1,336.52,Nordeste,Marketplace,Fabio Lemos
+PED-00199,2025-10-29,Webcam Full HD,Perifericos,4,295.66,Centro-Oeste,E-commerce,Gisele Amaral
+PED-00129,2025-02-28,HD Externo 4TB,Armazenamento,1,625.56,Centro-Oeste,E-commerce,Carla Nunes
+PED-00637,2025-04-29,Headset Studio,Perifericos,1,600.37,Sudeste,Televendas,Fabio Lemos
+PED-00675,2025-10-03,Notebook Pro 14,Informatica,3,5092.16,Norte,Televendas,Heitor Braga
+PED-00337,2025-05-05,Suporte Monitor,Mobiliario,10,263.87,Norte,Loja Fisica,Gisele Amaral
+PED-00404,2025-12-01,HD Externo 4TB,Armazenamento,1,653.59,Sul,Televendas,Ana Prado
+PED-00512,2025-06-26,Dock Station USB-C,Perifericos,1,851.84,Centro-Oeste,Televendas,Gisele Amaral
+PED-00153,2025-07-06,Mouse Ergonomico,Perifericos,3,214.08,Sul,E-commerce,Elisa Rocha
+PED-00868,16/07/2025,HD Externo 4TB,Armazenamento,1,"708,80",Nordeste,Loja Fisica,Carla Nunes
+PED-00463,2025-07-27,Microfone Condensador,Audio,10,641.31,Centro-Oeste,Loja Fisica,Bruno Salles
+PED-00052,2025-01-22,Cadeira Ergonomica,Mobiliario,2,1394.58,Nordeste,Televendas,Ana Prado
+PED-00168,21/04/2025,Microfone Condensador,Audio,3,667.68,Sul,Televendas,Carla Nunes
+PED-00686,2025-10-04,HD Externo 4TB,Armazenamento,3,661.02,Sudeste,Televendas,Gisele Amaral
+PED-00399,2025-07-16,Notebook Pro 14,Informatica,1,4347.34,Norte,Marketplace,Gisele Amaral
+PED-00803,2025-12-31,Notebook Pro 14,Informatica,1,4833.00,Sul,E-commerce,Bruno Salles
+PED-00011,24/11/2025,Monitor 27 4K,Informatica,1,1618.14,Norte,Loja Fisica,Fabio Lemos
+PED-00648,2025-05-26,Caixa de Som Bluetooth,Audio,2,411.60,Sudeste,Loja Fisica,Heitor Braga
